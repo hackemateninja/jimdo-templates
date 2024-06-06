@@ -1,0 +1,207 @@
+<div id="templatemo_top_wrapper">
+    <div id="templatemo_top">
+        <ul id="social_box">
+            <li>
+                <a href="#"><img src="http://espacioforos.miarroba.st/2063167/neo/facebook.png" alt="facebook" /></a>
+            </li>
+
+            <li>
+                <a href="#"><img src="http://espacioforos.miarroba.st/2063167/neo/twitter.png" alt="twitter" /></a>
+            </li>
+
+            <li>
+                <a href="#"><img src="http://espacioforos.miarroba.st/2063167/neo/linkedin.png" alt="linkin" /></a>
+            </li>
+
+            <li>
+                <a href="#"><img src="http://espacioforos.miarroba.st/2063167/neo/technorati.png" alt="technorati" /></a>
+            </li>
+
+            <li>
+                <a href="#"><img src="http://espacioforos.miarroba.st/2063167/neo/myspace.png" alt="myspace" /></a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div id="templatemo_header_wrapper">
+    <div id="templatemo_header">
+        <div id="site_title">
+            <h1>
+                <a href="index.html"><img src="http://espacioforos.miarroba.st/2063167/neo/templatemo_logo.png" alt="logo" width="180" height="60" /><span>YOUR TAGLINE GOES HERE</span></a>
+            </h1>
+        </div>
+        <!-- end of site_title -->
+    </div>
+</div>
+<!-- end of templatemo_header -->
+
+<div id="templatemo_menu_wrapper">
+    <div id="templatemo_menu">
+        <ul>
+            <li>
+                <a href="index.html" class="current">Home</a>
+            </li>
+
+            <li>
+                <a href="about.html">About</a>
+            </li>
+
+            <li>
+                <a href="gallery.html">Gallery</a>
+            </li>
+
+            <li>
+                <a href="contact.html">Contact</a>
+            </li>
+        </ul>
+    </div>
+    <!-- end of templatemo_menu -->
+</div>
+
+<div id="templatemo_middle_wrapper_outer">
+    <div id="templatemo_middle_wrapper_inner">
+        <div id="templatemo_middle_top">
+        </div>
+
+        <div id="templatemo_middle">
+            <div id="templatemo_content">
+                <var>content</var>
+            </div>
+            <!-- end of content -->
+
+            <div id="templatmeo_sidebar">
+                <div class="sidebar_box">
+                    <ul class="ads_125">
+                        <li>
+                            <a href="http://www.templatemo.com"><img src="http://espacioforos.miarroba.st/2063167/neo/templatemo_ads.jpg" alt="CSS Templates" /></a>
+                        </li>
+
+                        <li class="odd">
+                            <a href="http://www.flashmo.com"><img src="http://espacioforos.miarroba.st/2063167/neo/templatemo_ads.jpg" alt="banner" /></a>
+                        </li>
+
+                        <li class="last_row">
+                            <a href="http://www.templatemo.com/page/1"><img src="http://espacioforos.miarroba.st/2063167/neo/templatemo_ads.jpg" alt="banner" /></a>
+                        </li>
+
+                        <li class="odd last_row">
+                            <a href="http://www.flashmo.com/page/1"><img src="http://espacioforos.miarroba.st/2063167/neo/templatemo_ads.jpg" alt="banner" /></a>
+                        </li>
+                    </ul>
+
+                    <div class="cleaner">
+                    </div>
+                </div>
+
+                <div class="sidebar_box">
+                    <h4>
+                        Categorias
+                    </h4>
+
+                    <ul class="tmo_list">
+                        <li>
+                            <var>navigation[1|2|3]</var>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="sidebar_box">
+                    <h4>
+                        Recent Posts
+                    </h4>
+
+                    <div class="recent_comment_box">
+                        <var>sidebar</var>
+                    </div>
+                </div>
+
+                <div class="cleaner">
+                </div>
+            </div>
+
+            <div class="cleaner">
+            </div>
+        </div>
+        <!-- end of templatemo_middle -->
+
+        <div id="templatemo_middle_bottom">
+        </div>
+
+        <div id="templatemo_footer">
+            <div class="col_w310">
+                <h4>
+                    Our Pages
+                </h4>
+
+                <ul>
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+
+                    <li>
+                        <a href="gallery.html">Gallery</a>
+                    </li>
+
+                    <li>
+                        <a href="contact.html" class="last">Contact</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col_w310">
+                <h4>
+                    Partners
+                </h4>
+
+                <ul>
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">Flash Templates</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">CSS Templates</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">Flash Websites Gallery</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">Premium Templates</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col_w310">
+                <h4>
+                    About Us
+                </h4>
+
+                <p>
+                    Integer consectetur enim eget diam tincidunt vehicula. Aenean scelerisque tellus vitae tortor placerat egestas. Ut volutpat erat nec mauris vestibulum sit amet pharetra urna.
+                </p>
+
+                <div class="btn_more">
+                    <a href="about.html">Read more <span>»</span></a>
+                </div>
+            </div>
+
+            <div class="cleaner">
+            </div>
+        </div>
+        <!-- end of footer -->
+    </div>
+</div>
+
+<div id="templatemo_copyright_wrapper">
+    <div id="templatemo_copyright">
+        Copyright Â© 2048 <a href="#">Nitroplantillas</a> - <a href="http://nitroplantillas.jimdo.com" target="_parent">Website Templates</a> by <a href="http://nitroplantillas.jimdo.com" target=
+        "_parent">Free CSS Templates</a>
+    </div>
+    <var>footer</var>
+</div>

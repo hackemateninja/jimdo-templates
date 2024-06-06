@@ -1,0 +1,187 @@
+<div id="templatemo_site_title_bar_wrapper">
+    <div id="templatemo_site_title_bar">
+        <div id="site_title">
+            <h1>
+                <a href="http://nitroplantillas.jimdo.com" target="_parent">Company Template <span>free html/css layout</span></a>
+            </h1>
+        </div>
+
+        <ul id="top_menu">
+            <li>
+                <var>navigation[1|2|3]</var>
+            </li>
+        </ul>
+    </div>
+    <!-- end of site title bar -->
+</div>
+<!-- end of site title bar wrapper -->
+
+<div id="templatemo_banner_wrapper">
+    <div id="templatemo_banner">
+        <div id="slider">
+            <ul id="sliderContent">
+                <li class="sliderImage">
+                    <a href="http://nitroplantillas.jimdo.com" target="_blank"><img src="http://espacioforos.miarroba.st/2063167/gree/01.jpg" alt="1" /></a> <span class="bottom"><strong>Project
+                    1</strong><br />
+                    Suspendisse turpis arcu, dignissim ac laoreet a, condimentum in massa.</span>
+                </li>
+
+                <li class="sliderImage">
+                    <a href="http://nitroplantillas.jimdo.com" target="_blank"><img src="http://espacioforos.miarroba.st/2063167/gree/02.jpg" alt="2" /></a> <span class="bottom"><strong>Project
+                    2</strong><br />
+                    uisque eget elit quis augue pharetra feugiat.</span>
+                </li>
+
+                <li class="sliderImage">
+                    <a href="http://nitroplantillas.jimdo.com" target="_blank"><img src="http://espacioforos.miarroba.st/2063167/gree/03.jpg" alt="3" /></a> <span class="bottom"><strong>Project
+                    3</strong><br />
+                    Sed et quam vitae ipsum vulputate varius vitae semper nunc.</span>
+                </li>
+
+                <li class="sliderImage">
+                    <a href="http://nitroplantillas.jimdo.com" target="_blank"><img src="http://espacioforos.miarroba.st/2063167/gree/04.jpg" alt="4" /></a> <span class="bottom"><strong>Project
+                    4</strong><br />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                </li>
+            </ul>
+
+            <div class="clear sliderImage">
+            </div>
+        </div>
+
+        <div id="banner_content">
+            <h2>
+                Lorem ipsum dolor sit amet
+            </h2>
+
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor, arcu sit amet auctor luctus, lectus sem rhoncus felis, dignissim convallis nulla quam ac dolor.
+            </p>
+            <a href="http://nitroplantillas.jimdo.com" target="_parent">Read more</a>
+        </div>
+    </div>
+    <!-- end of banner-->
+</div>
+<!-- end of banner wrapper -->
+
+<div id="templatemo_menu_wrapper">
+    <div id="templatemo_menu">
+        <ul>
+            <li>
+                <a href="http://nitroplantillas.jimdo.com" class="current fast">Home</a>
+            </li>
+
+            <li>
+                <a href="http://nitroplantillas.jimdo.com" target="_parent">Flash</a>
+            </li>
+
+            <li>
+                <a href="http://nitroplantillas.jimdo.com" target="_parent">CSS</a>
+            </li>
+
+            <li>
+                <a href="http://nitroplantillas.jimdo.com" target="_parent">Gallery</a>
+            </li>
+
+            <li>
+                <a href="http://nitroplantillas.jimdo.com">Blog</a>
+            </li>
+
+            <li>
+                <a href="http://nitroplantillas.jimdo.com">Company</a>
+            </li>
+        </ul>
+    </div>
+    <!-- end of menu -->
+</div>
+<!-- end of menu wrapper -->
+
+<div id="templatemo_content">
+    <div id="main_column">
+        <div class="section_w560">
+            <var>content</var>
+            <div class="cleaner">
+            </div>
+        </div>
+
+        <div class="cleaner_h50">
+        </div>
+
+        <div class="section_w560">
+            <div class="cleaner_h20">
+            </div>
+        </div>
+
+        <div class="cleaner">
+        </div>
+    </div>
+    <!-- end of main column -->
+
+    <div id="side_column">
+        <div class="side_column_box">
+            <h2>
+                Upcoming Events
+            </h2>
+
+            <div class="news_section">
+                <img class="image_wrapper" src="http://espacioforos.miarroba.st/2063167/gree/templatemo_image_02.jpg" alt="image" />
+                <h3>
+                    Etiam tempus tellus eget
+                </h3>
+
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ipsum sem, ut lobortis dui. <a href="#">Read more...</a>
+                </p>
+            </div>
+
+            <div class="news_section">
+                <img class="image_wrapper" src="http://espacioforos.miarroba.st/2063167/gree/templatemo_image_03.jpg" alt="image" />
+                <h3>
+                    Nam quis aliquet quam
+                </h3>
+
+                <p>
+                    Sed pharetra neque vel mauris auctor ornare. Maecenas urna lorem, consectetur eget consectetur id. <a href="#">Read more...</a>
+                </p>
+            </div>
+
+            <div class="button bottom_02">
+                <a href="http://nitroplantillas.jimdo.com">View All</a>
+            </div>
+        </div>
+
+        <div class="cleaner_h20">
+        </div>
+
+        <div class="side_column_box">
+            <h2>
+                Newsletter
+            </h2>
+
+            <form action="#" method="get">
+                <input type="text" value="Enter your email address..." name="q" size="10" class="inputfield" title="searchfield" onfocus="clearText(this)" onblur="clearText(this)" /> <input type=
+                "submit" name="Subscribe" value="Subscribe" alt="Subscribe" class="submitbutton" title="Search" />
+            </form>
+        </div>
+        <var>sidebar</var>
+    </div>
+    <!-- end of side column -->
+
+    <div class="cleaner">
+    </div>
+</div>
+<!-- end of content -->
+
+<div id="templatemo_footer_wrapper">
+    <div id="templatemo_footer">
+        <ul class="footer_menu">
+            <li>
+                <var>navigation[1|2|3]</var>
+            </li>
+        </ul>
+        Copyright © 2048 <a href="http://nitroplantillas.jimdo.com">Your Company Name</a> | Designed by <a href="http://nitroplantillas.jimdo.com" target="_parent">Free CSS Templates</a> | Validate
+        <a href="http://nitroplantillas.jimdo.com">XHTML</a> &amp; <a href="http://nitroplantillas.jimdo.com">CSS</a> <var>footer</var>
+    </div>
+    <!-- end of footer -->
+</div>
+<!-- end of footer wrapper -->

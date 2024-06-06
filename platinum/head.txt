@@ -1,0 +1,45 @@
+<link href="http://espacioforos.miarroba.st/2063167/platinum/templatemo_style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="http://espacioforos.miarroba.st/2063167/platinum/nivo-slider.css" type="text/css" media="screen" />
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+function clearText(field)
+{
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+//]]>
+</script>
+<link rel="stylesheet" type="text/css" href="http://espacioforos.miarroba.st/2063167/platinum/ddsmoothmenu.css" />
+
+<script type="text/javascript" src="http://espacioforos.miarroba.st/2063167/platinum/jquery.min.js">
+</script>
+
+<script type="text/javascript" src="http://espacioforos.miarroba.st/2063167/platinum/ddsmoothmenu.js">
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+ddsmoothmenu.init({
+        mainmenuid: "templatemo_menu", //menu DIV id
+        orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+        classname: 'ddsmoothmenu', //class added to menu's outer DIV
+        //customtheme: ["#1c5a80", "#18374a"],
+        contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+//]]>
+</script>
+
+<script type="text/javascript" src="http://espacioforos.miarroba.st/2063167/platinum/jquery.nivo.slider.js">
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var a = jQuery.noConflict();
+            a(window).load(function() {
+                a('#slider').nivoSlider();
+            });
+        //]]>
+</script>

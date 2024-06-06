@@ -1,0 +1,316 @@
+<div id="templatemo_menu_wrapper">
+    <!-- Free Website Template from www.TemplateMo.com -->
+
+    <div id="templatemo_menu_panel">
+        <ul>
+            <li>
+                <var>navigation[1|2|3]</var>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- end of menu -->
+
+<div id="templatemo_header_wrapper">
+    <div id="templatemo_header_panel">
+        <div class="templatemo_header">
+        </div>
+
+        <div class="templatemo_header_right_section">
+            <div class="rss_twitter_section">
+                <div class="rss_twitter_box">
+                    Subscribe by RSS <img src="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_9/rss.png" alt="RSS Icon" />
+                </div>
+
+                <div class="rss_twitter_box">
+                    Follow me on Twitter <img src="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_9/twitter.png" alt="Twitter Icon" />
+                </div>
+            </div>
+
+            <div class="search_box">
+                <form action="#" method="get">
+                    <input type="text" name="q" size="10" id="searchfield" title="searchfield" /> <input type="submit" name="Search" value="" alt="Search" id="searchbutton" title="Search" />
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- end of header panel -->
+
+    <div class=" cleaner">
+        &#160;
+    </div>
+</div>
+<!-- end of header wrapper -->
+
+<div id="templatemo_content_panel">
+    <div id="templatemo_content_wrapper">
+        <div id="templatemo_content">
+            <div id="content_left">
+                <div class="post_section">
+                    <div class="post_header">
+                        <div class="post_title_info">
+                            <var>content</var>
+                        </div>
+                    </div>
+
+                    <div class="post_content">
+                    </div>
+
+                    <div class="cleaner">
+                        &#160;
+                    </div>
+                </div>
+
+                <div class="divider_h60">
+                    &#160;
+                </div>
+
+                <div class="post_section">
+                    <div class="post_header">
+                        <div class="post_title_info">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="divider_h60">
+                    &#160;
+                </div>
+
+                <div class="post_section">
+                    <div class="post_header">
+                        <div class="post_title_info">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="cleaner">
+                    &#160;
+                </div>
+            </div>
+            <!-- end of content left -->
+
+            <div id="content_right">
+                <div class="ads_250_250">
+                    <a href="http://nitroplantillas.jimdo.com"><img src="http://landois.com/wp-content/uploads/2011/09/landois-wp-banner-web-dynamics.png" alt="250x250 banner" /></a>
+                </div>
+
+                <div class="cleaner_h30">
+                    &#160;
+                </div>
+
+                <div class="content_right_section">
+                    <div class="content_right_titile_01">
+                        Contenido especial
+                    </div>
+
+                    <ul>
+                        <li>
+                            <a href="#">May 2024</a>
+                        </li>
+
+                        <li>
+                            <a href="#">April 2024</a>
+                        </li>
+
+                        <li>
+                            <a href="#">March 2024</a>
+                        </li>
+
+                        <li>
+                            <a href="#">February 2024</a>
+                        </li>
+
+                        <li>
+                            <a href="#">January 2024</a>
+                        </li>
+
+                        <li>
+                            <a href="#">December 2023</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="cleaner_h30">
+                    &#160;
+                </div>
+
+                <div class="content_right_section">
+                    <div class="ads_125_125 right_padding_10">
+                        <a href="#"><img src="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_9/templatemo_ads.jpg" alt="125x125 banner 1" /></a>
+                    </div>
+
+                    <div class="ads_125_125">
+                        <a href="#"><img src="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_9/templatemo_ads.jpg" alt="125x125 banner 2" /></a>
+                    </div>
+
+                    <div class="ads_125_125 right_padding_10">
+                        <a href="#"><img src="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_9/templatemo_ads.jpg" alt="125x125 banner 3" /></a>
+                    </div>
+
+                    <div class="ads_125_125">
+                        <a href="#"><img src="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_9/templatemo_ads.jpg" alt="125x125 banner 4" /></a>
+                    </div>
+                </div>
+
+                <div class="cleaner_h30">
+                    &#160;
+                </div>
+
+                <div class="content_right_section">
+                    <var>sidebar</var>
+                    <div class="recent_post">
+                        <div class="post_title">
+                            Sed metus nisl, placerat vitae iaculis in
+                        </div>
+                        Aliquam nec est quis felis venenatis imperdiet. Duis placerat luctus sem.
+                    </div>
+
+                    <div class="recent_post">
+                        <div class="post_title">
+                            Donec molestie aliquet nisi eu facilisis
+                        </div>
+                        In vitae placerat enim. Aenean elementum lectus eleifend a pellentesque lacus aliquet.
+                    </div>
+
+                    <div class="recent_post">
+                        <div class="post_title">
+                            Proin magna amet fermentum dignissim
+                        </div>
+                        Nulla gravida, lacus molestie convallis dolor sem suscipit nisl, ut pharetra erat leo in elit.
+                    </div>
+
+                    <div class="recent_post">
+                        <div class="post_title">
+                            Fusce pulvinar euismod urna vel viverra
+                        </div>
+                        Quisque malesuada laoreet tellus vel iaculis. Morbi nulla leo euismod pulvinar erat.
+                    </div>
+
+                    <div class="recent_post">
+                        <div class="post_title">
+                            Class aptent taciti sociosqu ad litora
+                        </div>
+                        Curabitur vestibulum est eu purus bibendum eu eleifend diam tempor. Fusce metus eros, faucibus ut hendrerit ac.
+                    </div>
+                </div>
+
+                <div class="cleaner">
+                    &#160;
+                </div>
+            </div>
+            <!-- end of content right -->&#160;
+            <div class="cleaner">
+                &#160;
+            </div>
+        </div>
+        <!-- end of content -->
+
+        <div id="templatemo_content_bottom">
+            &#160;
+        </div>
+
+        <div class="cleaner">
+            &#160;
+        </div>
+    </div>
+    <!-- end of content wrapper -->
+</div>
+<!-- end of content panel -->
+
+<div class="cleaner_h30">
+    &#160;
+</div>
+<!-- bottom panel -->
+
+<div id="templatemo_bottom_wrapper">
+    <div id="templatemo_bottom_panel">
+        <div class="bottom_section_box">
+            <div class="templatemo_bottom_title">
+                Copyright Info.
+            </div>
+
+            <p>
+                Nulla enim nibh, conse ctetuer sed, vesti bulum eleme ntum, sagittis nec, diam. Mauris blan dit vehi cula neque. <a href="#">Read More</a>
+            </p>
+
+            <div class="cleaner">
+                &#160;
+            </div>
+        </div>
+
+        <div class="bottom_section_box">
+            <div class="templatemo_bottom_title">
+                Partners
+            </div>
+
+            <ul>
+                <li>
+                    <a href="http://www.templatemo.com" title="Free CSS Templates" target="_blank">TemplateMo.com</a>
+                </li>
+
+                <li>
+                    <a href="http://www.flashmo.com" title="Free Flash Templates" target="_blank">FlashMo.com</a>
+                </li>
+
+                <li>
+                    <a href="http://www.webdesignmo.com/blog" title="Web Design Resources" target="_blank">WebDesignMo.com</a>
+                </li>
+
+                <li>
+                    <a href="http://www.photovaco.com" title="Free Stock Photos" target="_blank">PhotoVaco.com</a>
+                </li>
+            </ul>
+
+            <div class="cleaner">
+                &#160;
+            </div>
+        </div>
+
+        <div class="bottom_section_box">
+            <div class="templatemo_bottom_title">
+                Other Links
+            </div>
+
+            <ul>
+                <li>
+                    <a href="#">Partners</a>
+                </li>
+
+                <li>
+                    <a href="#">Gallery</a>
+                </li>
+
+                <li>
+                    <a href="#">About</a>
+                </li>
+
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+
+            <div class="cleaner">
+                &#160;
+            </div>
+        </div>
+
+        <div class="bottom_section_box">
+            <div class="templatemo_bottom_title">
+            </div>
+
+            <div class="cleaner">
+                &#160;
+            </div>
+        </div>
+        <!-- Free Website Templates @ TemplateMo.com -->
+
+        <div class="cleaner">
+            &#160;
+        </div>
+    </div>
+</div>
+<!-- end of bottom panel -->
+<var>footer</var>
+<div class="cleaner_h20">
+    &#160;
+</div>

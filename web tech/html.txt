@@ -1,0 +1,195 @@
+<div id="templatemo_header">
+    <div id="site_title">
+        <a href="http://www.templatemo.com" target="_parent">Technology Blog - Free CSS Template</a>
+    </div>
+    <!-- end of site_title -->
+
+    <div id="header_right">
+        <div id="newsletter_box">
+            <form action="#" method="get">
+                <input type="text" id="user" name="user" class="newsletter_email" value="Enter your email address" onfocus="clearText(this)" onblur="clearText(this)" /> <input style=
+                "font-weight: bold;" type="submit" name="submit" id="submit" value="" />
+            </form>
+        </div>
+    </div>
+
+    <div class="cleaner">
+    </div>
+</div>
+<!-- end of header -->
+
+<div id="templatemo_menu_wrapper">
+    <div id="templatemo_menu">
+        <ul>
+            <li>
+                <a href="#" class="current">Home</a>
+            </li>
+
+            <li>
+                <a href="#">Web 2.0</a>
+            </li>
+
+            <li>
+                <a href="http://www.templatemo.com" target="_parent">CSS Templates</a>
+            </li>
+
+            <li>
+                <a href="#">Graphics</a>
+            </li>
+
+            <li>
+                <a href="http://www.koflash.com" target="_parent">Inspirations</a>
+            </li>
+
+            <li>
+                <a href="http://www.flashmo.com" target="_parent">Flash Files</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- end of templatemo_menu -->
+
+<div id="templatemo_main">
+    <div id="templatemo_content">
+        <div class="content_box">
+            <h1>
+                <var>content</var>
+            </h1>
+        </div>
+
+        <div class="post_box">
+            <div class="cleaner">
+            </div>
+        </div>
+
+        <div class="post_box">
+            <div class="cleaner">
+            </div>
+        </div>
+
+        <div class="post_box">
+            <div class="cleaner">
+            </div>
+        </div>
+
+        <div class="post_box pb_last">
+            <div class="cleaner">
+            </div>
+        </div>
+    </div>
+
+    <div id="templatemo_sidebar">
+        <div class="sidebar_box">
+            <h3>
+                Tag Cloud
+            </h3>
+
+            <div class="sb_content">
+                <a href="#" style="font-size:12px">Aenean</a> <a href="#" style="font-size:11px">Cursus</a> <a href="#" style="font-size:16px">Maecenas</a> <a href="#" style="font-size:11px">Aliquam
+                Ligula</a> <a href="#" style="font-size:20px">Egestas</a> <a href="#" style="font-size:16px">Suscipit</a> <a href="#" style="font-size:12px">Sapien</a> <a href="#" style=
+                "font-size:28px">Dignissim</a> <a href="#" style="font-size:14px">Vestibulum</a> <a href="#" style="font-size:12px">Lorem</a> <a href="#" style="font-size:14px">Urnain</a> <a href="#"
+                style="font-size:20px">Neque</a> <a href="#" style="font-size:12px">Aenean</a>
+            </div>
+        </div>
+
+        <div class="sidebar_box">
+            <h3>
+                Categories
+            </h3>
+
+            <div class="sb_content">
+                <ul class="sidebar_menu">
+                    <li>
+                        <var>navigation[1|2|3]</var>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="sidebar_box">
+            <h3>
+                Archives
+            </h3>
+
+            <div class="sb_content">
+                <div style="margin-left: 2em" class="sidebar_menu">
+                    <var>sidebar</var>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="cleaner">
+    </div>
+</div>
+<!-- end of main -->
+
+<div id="templatmeo_bottom">
+    <div class="bottom_box">
+        <h5>
+            <span>Sed Necest</span> Suspendisse a nibh
+        </h5>
+
+        <p>
+            Duis vitae velit sed dui malesuada dignissim. Donec mollis aliquet ligula. Maecenas adipiscing elementum ipsum.
+        </p>
+        <a href="#" class="continue">more info</a>
+    </div>
+
+    <div class="bottom_box">
+        <h5>
+            <span>Lorem ipsum</span> dolor sit amet
+        </h5>
+
+        <p>
+            Vestibulum eleifend, enim ut molestie pulvinar, purus est fringilla augue, ut tristique nunc neque a libero.
+        </p>
+        <a href="#" class="continue">more info</a>
+    </div>
+
+    <div class="bottom_box">
+        <h5>
+            <span>adaptada</span> por
+        </h5>
+
+        <ul class="bottom_box_list">
+            <li>
+                <a href="http://nitroplantillas.jimdo.com">nitroplantillas.</a>
+            </li>
+
+            <li>
+                <a href="http://nitroplantillas.jimdo.com/plantillas">plantillas gratis para jimdo.</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- end of bottom -->
+
+<div id="templatemo_footer">
+    <ul class="footer_menu">
+        <li class="first">
+            <a href="#">Home</a>
+        </li>
+
+        <li>
+            <a href="#">Web 2.0</a>
+        </li>
+
+        <li>
+            <a href="#">Wordpress</a>
+        </li>
+
+        <li>
+            <a href="#">Graphics</a>
+        </li>
+
+        <li>
+            <a href="#">Inspirations</a>
+        </li>
+
+        <li>
+            <a href="#">Freebies</a>
+        </li>
+    </ul>
+    <var>footer</var>
+</div>

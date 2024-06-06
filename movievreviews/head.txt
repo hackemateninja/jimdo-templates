@@ -1,0 +1,17 @@
+<script type="text/javascript">
+//<![CDATA[
+var a = jQuery.noConflict ();
+Función a (() {
+        a ('Widget de barra lateral ul li:.. First-child "). AddClass (' primero ');
+        AddClass ('primero');: a ('first-child a navigation ul li').
+        a ('# Navigation ul li: last-child') addClass ('last'),.
+        AddClass ('primero');: a ('first-child footer-nav ul li.').
+
+        a ('A.popup'). Colorbox ({
+                onComplete: function () {
+                        . a Colorbox.resize ();
+                }
+        })
+});
+//]]>
+</script>

@@ -1,0 +1,151 @@
+<!-- BEGIN TOP -->
+
+<div id="top">
+    <div id="logo">
+        <a href="http://nitroplantillas.jimdo.com"><img src="http://nitrojimdo.blogcindario.com/ficheros/bloonton/logo.png" alt="" /></a>
+    </div>
+
+    <div id="nav">
+        <ul>
+            <li>
+                <a href="#" class="current">Page one</a>
+            </li>
+
+            <li>
+                <a href="#">Page two</a>
+            </li>
+
+            <li>
+                <a href="#">Page three</a>
+            </li>
+
+            <li>
+                <a href="#">Page four</a>
+            </li>
+        </ul>
+
+        <form action="#">
+            <fieldset>
+                <input type="text" size="23" class="searchfield" />
+            </fieldset>
+        </form>
+    </div>
+</div>
+<!-- END TOP -->
+<!-- BEGIN WRAPPER -->
+
+<div id="wrapper">
+    <!-- BEGIN MAIN -->
+
+    <div id="main">
+        <!-- BEGIN POST SNIPPET -->
+
+        <div class="post-snippet">
+            <var>content</var>
+        </div>
+        <!-- END POST SNIPPET -->
+        <!-- BEGIN POST SNIPPET -->
+        <!-- END POST SNIPPET -->
+        <!-- BEGIN POST SNIPPET -->
+        <!-- BEGIN POST SNIPPET -->
+        <!-- END POST SNIPPET -->
+    </div>
+    <!-- END MAIN -->
+    <!-- BEGIN SUDEBARS -->
+
+    <div id="sidebars">
+        <div id="ads">
+            <a href="#"><img src="http://nitrojimdo.blogcindario.com/ficheros/bloonton/ad-blank.jpg" alt="" /></a> <a href="#"><img src=
+            "http://nitrojimdo.blogcindario.com/ficheros/bloonton/ad-blank.jpg" alt="" class="right" /></a> <a href="#"><img src="http://nitrojimdo.blogcindario.com/ficheros/bloonton/ad-blank.jpg"
+            alt="" /></a> <a href="#"><img src="http://nitrojimdo.blogcindario.com/ficheros/bloonton/ad-blank.jpg" alt="" class="right" /></a>
+        </div>
+
+        <div class="sidebar">
+            <h3>
+                Sidebar header
+            </h3>
+
+            <ul>
+                <li>
+                    <a href="#">List item</a>
+                </li>
+
+                <li>
+                    <a href="#">List item</a>
+                </li>
+
+                <li class="last">
+                    <a href="#">List item</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="sidebar">
+            <h3>
+                Sidebar header
+            </h3>
+
+            <ul>
+                <li>
+                    <a href="#">List item</a>
+                </li>
+
+                <li>
+                    <a href="#">List item</a>
+                </li>
+
+                <li class="last">
+                    <a href="#">List item</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="sidebar">
+            <h3>
+                Sidebar header
+            </h3>
+
+            <ul>
+                <li>
+                    <var>navigation[1|2|3]</var>
+                </li>
+            </ul>
+            <var>sidebar</var>
+        </div>
+    </div>
+    <!-- END SIDEBARS -->
+</div>
+<!-- END WRAPPER -->
+<!-- BEGIN FOOTER -->
+
+<div id="footer">
+    <ul>
+        <li>©2010 <a href="http://nitroplantillas.jimdo.com">nitroplantillas</a>
+        </li>
+
+        <li>
+            <a href="#">FAQ</a>
+        </li>
+
+        <li>
+            <a href="#">Privacy Policy</a>
+        </li>
+
+        <li>
+            <a href="#">Careers</a>
+        </li>
+
+        <li>
+            <a href="#">Advertise</a>
+        </li>
+
+        <li>
+            <a href="#">Sitemap</a>
+        </li>
+
+        <li>Designed by <a href="http://nitroplantillas,jimdo.com/">nitroplantillas</a>
+        </li>
+    </ul>
+    <var>footer</var>
+</div>
+<!-- END FOOTER -->

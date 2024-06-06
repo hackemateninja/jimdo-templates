@@ -1,0 +1,208 @@
+<!-- Wrapper -->
+
+<div id="wrapper">
+    <div class="wrapper-bg">
+        <!-- Shell -->
+
+        <div id="shell">
+            <!-- Header -->
+
+            <div id="header">
+                <!-- Logo -->
+
+                <h1 id="logo">
+                    <a href="#">Plantillas 21</a>
+                </h1>
+                <!-- /Logo -->
+                <!-- Navigation -->
+
+                <div id="navigation">
+                    <ul id="nav">
+                        <li>
+                            <var>navigation[1|2|3]</var>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /Navigation -->
+
+                <div class="cl">
+                    &#160;
+                </div>
+            </div>
+            <!-- /Header -->
+            <!-- Slider -->
+
+            <div id="slider">
+                <ul>
+                    <!-- Slide -->
+
+                    <li>
+                        <div class="image">
+                            <img src="http://u.jimdo.com/www50/o/s610a96d009d2dab3/img/i4547e5f94cc9296b/1333992404/std/image.png" alt="" />
+                        </div>
+
+                        <div class="data">
+                            <h2>
+                                Bienvenido a plantillas 21
+                            </h2>
+
+                            <p>
+                                plantillas jimdo gratis grandes diseños, menús desplegables, trucos, tutoriales, ayuda y mucho más.
+                            </p>
+
+                            <p>
+                                Lo mejor de lo mejor solo en plantillas21.jimdo.com
+                            </p>
+                        </div>
+                    </li>
+                    <!-- /Slide -->
+                    <!-- Slide -->
+
+                    <li>
+                        <div class="image">
+                            <img src="http://u.jimdo.com/www50/o/s610a96d009d2dab3/img/if854b45fffb26f50/1333991470/std/image.png" alt="" />
+                        </div>
+
+                        <div class="data">
+                            <h2>
+                                Desing by: cybertroyan
+                            </h2>
+
+                            <p>
+                                Producto official de cybertroyan web master profesional.
+                            </p>
+
+                            <p>
+                                Yo soy cybertroyan tengo 18 años y soy el creador de esta web espero que te guste y que todo sea de tu agrado.
+                            </p>
+                        </div>
+                    </li>
+                    <!-- /Slide -->
+                    <!-- Slide -->
+
+                    <li>
+                        <div class="image">
+                            <img src="http://u.jimdo.com/www50/o/s610a96d009d2dab3/img/icf05e45e8d16263e/1333991659/std/image.png" alt="" />
+                        </div>
+
+                        <div class="data">
+                            <h2>
+                                Diseñadores por excelencia
+                            </h2>
+
+                            <p>
+                                Conviértete en un diseñador web con todos los consejos y videotutoriales que te ofresco
+                            </p>
+
+                            <p>
+                                Tutoriales creados especialmente para ti totalmente gratis
+                            </p>
+                        </div>
+                    </li>
+                    <!-- /Slide -->
+                </ul>
+            </div>
+            <!-- /Slider -->
+            <!-- Intro -->
+
+            <div id="intro">
+                <!-- Avatar -->
+                <!-- /Avatar -->
+                <!-- Content -->
+
+                <div class="cnt">
+                    <h4>
+                        Hello World!
+                    </h4>
+
+                    <p>
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
+                        printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining
+                        essentially unchanged.
+                    </p>
+                </div>
+                <!-- /Content -->
+
+                <div class="cl">
+                    &#160;
+                </div>
+            </div>
+            <!-- /Intro -->
+            <!-- Main -->
+
+            <div id="main">
+                <!-- Content -->
+
+                <div id="content" class="box">
+                    <div class="box-top">
+                        <div class="box-bottom">
+                            <div class="site-link">
+                                <div class="cl">
+                                    &#160;
+                                </div>
+                            </div>
+
+                            <div class="site-link last">
+                                <div class="cl">
+                                    &#160;
+                                </div>
+                            </div>
+
+                            <div class="cl">
+                                &#160;
+                            </div>
+                            <var>content</var>
+                        </div>
+                    </div>
+                </div>
+                <!-- /Content -->
+                <!-- Sidebar -->
+
+                <div id="sidebar" class="box">
+                    <div class="box-top">
+                        <div class="box-bottom">
+                            <h3 class="blogroll">
+                                BLOGROLL
+                            </h3>
+
+                            <div class="blog-posts">
+                                <ul>
+                                    <li>
+                                        <h5>
+                                            <a href="#">Donec vehicula felis</a>
+                                        </h5>
+
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque blandit sagittis augue, vitae laoreet quam luctus eget.
+                                        </p>
+                                    </li>
+
+                                    <li style="list-style: none">
+                                        <var>sidebar</var>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /Sidebar -->
+
+                <div class="cl">
+                    &#160;
+                </div>
+            </div>
+            <!-- /Main -->
+            <!-- Footer -->
+
+            <div id="footer">
+                <p>
+                    © <a href="#">Sitename.com</a>. Design by <a href="http://chocotemplates.com" target="_blank" title="The Sweetest CSS Templates WorldWide">ChocoTemplates.com</a>
+                </p>
+                <var>footer</var>
+            </div>
+            <!-- /Footer -->
+        </div>
+        <!-- /Shell -->
+    </div>
+</div>
+<!-- /Wrapper -->

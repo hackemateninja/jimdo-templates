@@ -1,0 +1,244 @@
+<div id="templatemo_wrapper">
+    <div id="templatemo_header">
+        <div id="site_title">
+            <h1>
+                <a href="http://nitroplantillas.jimdo.com">Free CSS Templates</a>
+            </h1>
+        </div>
+
+        <div id="templatemo_menu" class="ddsmoothmenu">
+            <ul>
+                <li>
+                    <a href="index.html" class="selected">Home</a>
+                </li>
+
+                <li>
+                    <a href="about.html">About Us</a>
+                    <ul>
+                        <li>
+                            <a href="submenupage.html">Sub menu 1</a>
+                        </li>
+
+                        <li>
+                            <a href="submenupage.html">Sub menu 2</a>
+                        </li>
+
+                        <li>
+                            <a href="submenupage.html">Sub menu 3</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="portfolio.html">Portfolio</a>
+                    <ul>
+                        <li>
+                            <a href="submenupage.html">Sub menu 1</a>
+                        </li>
+
+                        <li>
+                            <a href="submenupage.html">Sub menu 2</a>
+                        </li>
+
+                        <li>
+                            <a href="submenupage.html">Sub menu 3</a>
+                        </li>
+
+                        <li>
+                            <a href="submenupage.html">Sub menu 4</a>
+                        </li>
+
+                        <li>
+                            <a href="submenupage.html">Sub menu 5</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="blog.html">Blog</a>
+                </li>
+
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ul>
+            <br style="clear: left" />
+        </div>
+        <!-- end of menu -->
+    </div>
+    <!-- end of header -->
+
+    <div id="templatemo_middle">
+        <div id="templatemo_middle_left">
+            <h2>
+                Welcome to<strong>Platinum Theme</strong>
+            </h2>
+
+            <p>
+                Donec pulvinar mattis feugiat. Suspendisse adipiscing hendrerit dapibus. Fusce auctor nibh a velit tempor rutrum. Vivamus mauris nulla, rutrum sed cursus sed, tempus eget magna.
+            </p>
+            <a href="http://nitroplantillas.jimdo.com" class="learn_more"></a>
+        </div>
+
+        <div id="slider-wrapper">
+            <div id="slider" class="nivoSlider">
+                <img src="http://espacioforos.miarroba.st/2063167/platinum/01.jpg" alt="Slider 01" /> <img src="http://espacioforos.miarroba.st/2063167/platinum/02.jpg" alt="Slider 02" /> <img src=
+                "http://espacioforos.miarroba.st/2063167/platinum/03.jpg" alt="Slider 03" /> <img src="http://espacioforos.miarroba.st/2063167/platinum/04.jpg" alt="Slider 04" />
+            </div>
+        </div>
+        <script type="text/javascript" src="js/jquery-1.4.3.min.js">
+</script> <script type="text/javascript" src="js/jquery.nivo.slider.js">
+</script> <script type="text/javascript">
+//<![CDATA[
+            $(window).load(function() {
+                $('#slider').nivoSlider();
+            });
+        //]]>
+        </script>
+        <div class="cleaner">
+        </div>
+    </div>
+    <!-- end of middle -->
+
+    <div id="templatemo_main_wrapper">
+        <div id="templatemo_main">
+            <div id="content">
+                <div class="post">
+                    <var>content</var>
+                    <div class="cleaner">
+                    </div>
+                </div>
+
+                <div class="col_2 float_l">
+                    <div class="cleaner">
+                    </div>
+                </div>
+
+                <div class="col_2 float_r">
+                </div>
+
+                <div class="cleaner">
+                </div>
+            </div>
+
+            <div id="sidebar">
+                <div id="templatemo_search">
+                    <form action="#" method="get">
+                        <input type="text" value="Search" name="keyword" id="keyword" title="keyword" onfocus="clearText(this)" onblur="clearText(this)" class="txt_field" /> <input type="submit"
+                        name="Search" value="" alt="Search" id="searchbutton" title="Search" class="sub_btn" />
+                    </form>
+                </div>
+
+                <div class="sb_box">
+                    <h3>
+                        Categories
+                    </h3>
+
+                    <ul class="templatemo_list">
+                        <li>
+                            <var>navigation[1|2|3]</var>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="sb_box">
+                    <var>sidebar</var>
+                </div>
+            </div>
+            <!-- end of sidebar -->
+
+            <div class="cleaner">
+            </div>
+        </div>
+        <!-- end of main -->
+    </div>
+    <!-- end of main wrapper -->
+</div>
+<!-- end of wrapper -->
+
+<div id="templatemo_footer_wrapper">
+    <div id="templatemo_footer">
+        <a href="#templatemo_header" class="goto_top"></a>
+        <div class="col_4">
+            <h5>
+                Pages
+            </h5>
+
+            <ul class="footer_list">
+                <li>
+                    <a href="home.html">Home</a>
+                </li>
+
+                <li>
+                    <a href="about.html">About Us</a>
+                </li>
+
+                <li>
+                    <a href="portfolio.html">Portfolio</a>
+                </li>
+
+                <li>
+                    <a href="blog.html">Blog</a>
+                </li>
+
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="col_4">
+            <h5>
+                Partners
+            </h5>
+
+            <ul class="footer_list">
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Free Flash Templates</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Free CSS Templates</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Preminum Templates</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Website Gallery</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Web Design Resources</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="col_4">
+            <h5>
+                Twitter
+            </h5>
+
+            <ul class="twitter_post">
+                <li>Suspendisse at scelerisque urna. Aenean tincidunt massa in tellus varius ultricies.
+                </li>
+
+                <li>Proin dignissim, diam nec <a href="#">@TemplateMo</a> enim lorem tempus orci, ac ante purus in justo.
+                </li>
+            </ul>
+        </div>
+
+        <div class="col_4 col_l">
+            <div class="cleaner h40">
+            </div>
+            Copyright © 2048 <a href="http://nitroplantillas.jimdo.com">adaptada por nitroplantillas</a><br />
+            <a href="http://nitroplantillas.jimdo.com" target="_parent">Website Templates</a> by<br />
+            <a href="http://nitroplantillas.jimdo.com" target="_parent">Free CSS Templates</a>
+        </div>
+
+        <div class="cleaner">
+            <var>footer</var>
+        </div>
+    </div>
+</div>

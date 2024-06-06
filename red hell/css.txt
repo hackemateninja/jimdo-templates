@@ -1,0 +1,254 @@
+/*
+    designed by WebTemplateOcean.com
+    http://www.webtemplateocean.com/
+    released under Creative Commons Attribution-ShareAlike 3.0 license
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-bottom: 30px;
+    font: 12px Arial, Helvetica, sans-serif;
+    color: #B9B3AD;
+    background: #000000;
+}
+
+h1 {
+    padding: 120px 0 0 30px;
+    font: normal 54px Georgia, Times, serif;
+    color: #FFFFFF;
+}
+
+h1 a, h1 a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+h2 {
+    font-weight: normal;
+    text-shadow: -1px 1px 1px #36322F;
+}
+
+p {
+    padding: .8em 0;
+    line-height: 1.8em;
+    text-align: justify;
+}
+
+p#subtitle {
+    padding: 0 0 0 30px;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #CE5454;
+}
+
+a {
+    color: #D9463D;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EF5548;
+}
+
+/* page */
+
+#page {
+    width: 960px;
+    margin: 0 auto;
+}
+
+/* header */
+
+#header {
+    height: 350px;
+    background: url('http://nitrojimdo.blogcindario.com/ficheros/redhell/header.jpg') no-repeat right top;
+}
+
+/* menu */
+
+#menu {
+    height: 102px;
+    text-align: center;
+    background: #9D2D2D url('http://nitrojimdo.blogcindario.com/ficheros/redhell/menu.gif') no-repeat top;
+}
+
+#menu ul {
+    list-style: none;
+}
+
+#menu ul li {
+    display: inline;
+    font-size: 14px;
+    line-height: 72px;
+}
+
+#menu ul li a {
+    padding: 0 30px;
+    text-shadow: 1px -1px 1px #7B2323;
+    color: #EEC2C2;
+}
+
+#menu ul li a:hover {
+    color: #FFFFFF;
+}
+
+/* main */
+
+#main {
+    background: url('http://nitrojimdo.blogcindario.com/ficheros/redhell/main.jpg') no-repeat bottom;
+}
+
+/* sidebar */
+
+#sidebar {
+    float: left;
+    width: 305px;
+    font-size: 13px;
+}
+
+#sidebar #login, #sidebar .box {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    background: url('http://nitrojimdo.blogcindario.com/ficheros/redhell/box.gif') no-repeat bottom;
+}
+
+#sidebar .box2 {
+    height: 1%;
+    padding: 20px 30px;
+    background: #36322F url('http://nitrojimdo.blogcindario.com/ficheros/redhell/box.jpg') no-repeat top;
+}
+
+#sidebar h2 {
+    padding: 0 10px 0 30px;
+    font-size: 20px;
+    line-height: 64px;
+    background: #49433D url('http://nitrojimdo.blogcindario.com/ficheros/redhell/h2.gif') no-repeat;
+}
+
+#sidebar ul {
+    list-style: none;
+}
+
+#sidebar ul li {
+    padding: .25em 0 .25em 25px;
+    line-height: 1.8em;
+    background: url('http://nitrojimdo.blogcindario.com/ficheros/redhell/arrow.gif') no-repeat 0 .55em;
+}
+
+/* login */
+
+#login h2 {
+    font-size: 18px;
+    line-height: 52px;
+    height: 58px;
+    background: #49433D url('http://nitrojimdo.blogcindario.com/ficheros/redhell/loginh2.gif') no-repeat;
+}
+
+#login form {
+    text-align: center;
+}
+
+#login form p {
+    padding: 5px 0;
+    text-align: center;
+}
+
+#login form p.txtleft {
+    padding: 15px 0 5px 35px;
+    text-align: left;
+}
+
+#login form p.rem {
+    padding-top: 15px;
+}
+
+#login input.text, #login input.password {
+    padding: 4px;
+    width: 190px;
+    font-size: 13px;
+    color: #444444;
+    background: #EAE8E7;
+    border: 1px solid #A59C95;
+    border-left: 1px solid #C8C1BC;
+    border-bottom: 1px solid #C8C1BC;
+}
+
+#login input.submit {
+    margin: 10px 0;
+    width: 100px;
+    height: 31px;
+    color: #A59C95;
+    background: #7F2525 url('http://nitrojimdo.blogcindario.com/ficheros/redhell/submit.jpg') no-repeat;
+    border: none;
+    cursor: pointer;
+}
+
+/* content */
+
+#content {
+    float: right;
+    width: 625px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    background: url('http://nitrojimdo.blogcindario.com/ficheros/redhell/content.gif') no-repeat bottom;
+}
+
+#content #contheader h2 {
+    height: 58px;
+    padding-right: 30px;
+    font-size: 24px;
+    line-height: 52px;
+    text-align: right;
+    background: #49433D url('http://nitrojimdo.blogcindario.com/ficheros/redhell/contenth2.gif') no-repeat;
+}
+
+#content2 {
+    height: 1%;
+    padding: 40px 30px 10px 30px;
+    background: #36322F url('http://nitrojimdo.blogcindario.com/ficheros/redhell/content.jpg') no-repeat top;
+}
+
+#content .post {
+    padding: 0 0 50px 0;
+}
+
+#content2 h2 {
+    font-size: 24px;
+    text-shadow: none;
+}
+
+#content h2 a {
+    color: #B9B3AD;
+}
+
+p.postmeta {
+    padding: .4em 0;
+    color: #8D8883;
+}
+
+#content .entry {
+    padding: 20px 0 0 0;
+}
+
+.clearing {
+    clear: both;
+    height: 1px;
+    overflow: hidden;
+}
+
+/* footer */
+
+#footer {
+    padding: 40px 30px 80px 30px;
+}
+
+#footer p {
+    font-size: 11px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #7C7C7C;
+}

@@ -1,0 +1,108 @@
+<div id="templatemo_wrapper">
+    <div id="templatemo_header">
+        <div id="site_title">
+            <h1>
+                <a href="http://nitroplantillas.jimdo.com">templates for jimdo</a>
+            </h1>
+        </div>
+
+        <div id="templatemo_menu">
+            <ul>
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com" class="current home">Home</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Products</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Templates</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Services</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">About</a>
+                </li>
+
+                <li class="last">
+                    <a href="http://nitroplantillas.jimdo.com">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- end of templatemo_menu -->
+
+        <div id="templatemo_banner">
+        </div>
+    </div>
+    <!-- end of header -->
+
+    <div id="templatemo_left_sidebar">
+        <div class="sb_box">
+            <div class="content_title">
+                Categories
+            </div>
+
+            <ul class="tmo_list">
+                <li>
+                    <var>navigation[1|2|3]</var>
+                </li>
+            </ul>
+        </div>
+        <var>sidebar</var>
+    </div>
+    <!-- end of left sidebar -->
+
+    <div id="templatemo_content">
+        <var>content</var>
+    </div>
+    <!-- end of content -->
+
+    <div id="templatemo_right_sidebar">
+        <div class="content_title">
+            Latest News
+        </div>
+
+        <div class="news_box">
+            <h3>
+                Duis rhoncus ultricies feugiat
+            </h3>
+            Morbi libero orci, tristique nec luctus vitae, fermentum ac urna. Vivamus et velit neque. Duis et lectus elit. Nam ac ligula purus, ac tempus diam. In sit amet metus tellus. <a href="#"
+            class="more">more</a>
+            <div class="cleaner">
+            </div>
+        </div>
+
+        <div id="special_box">
+            <h3>
+                Special Offer
+            </h3>
+            <img src="http://nitrojimdo.blogcindario.com/ficheros/redgift/templatemo_image_04.png" alt="Christmas Gift" />
+            <div class="sb_text">
+                <h4>
+                    Lorem Ipsum Dolor
+                </h4>
+                Elitnec pharetra um dictum, di am purus pellentesque. <a href="#" class="more">more</a>
+                <div class="cleaner">
+                </div>
+            </div>
+
+            <div class="cleaner">
+            </div>
+        </div>
+    </div>
+    <!-- end of right sidebar -->
+</div>
+<!-- end of wrapper -->
+
+<div id="templatemo_footer_wrapper">
+    <div id="templatemo_footer">
+        Copyright © 2012 <a href="http://nitroplantillas.jimdo.com">Nitroplantillas</a> | Designed by <a href="http://www.nitroplantillas.jimdo.com" target="_parent">Free CSS Templates</a>
+        <div class="cleaner">
+            <var>footer</var>
+        </div>
+    </div>
+</div>

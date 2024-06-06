@@ -1,0 +1,29 @@
+<link href="http://espacioforos.miarroba.st/2063167/gree/templatemo_style.css" rel="stylesheet" type="text/css" />
+<link href="http://espacioforos.miarroba.st/2063167/gree/s3slider.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://espacioforos.miarroba.st/2063167/gree/jquery.js">
+</script>
+
+<script type="text/javascript" src="http://espacioforos.miarroba.st/2063167/gree/s3Slider.js">
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var a = jQuery.noConflict();
+    a(document).ready(function() {
+        a('#slider').s3Slider({
+            timeOut: 3000
+        });
+    });
+//]]>
+</script>
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+function clearText(field)
+{
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+//]]>
+</script>

@@ -1,0 +1,37 @@
+<link href="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_7/nivo-slider.css" rel="stylesheet" type="text/css" />
+<link href="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_7/templatemo_style.css" rel="stylesheet" type="text/css" />
+<link href="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_7/slimbox2.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_7/slimbox2.js">
+</script>
+
+<script type="text/javascript" src="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_7/jquery.min.js">
+</script>
+
+<script type="text/javascript" src="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_7/jquery.nivo.slider.js">
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var a = jQuery.noConflict();
+a(window).load(function() {
+        a('#slider').nivoSlider({
+                effect:'random',
+                slices:11,
+                animSpeed:600,
+                pauseTime:2000,
+                startSlide:0, //Set starting Slide (0 index)
+                directionNav:false, 
+                directionNavHide:false, //Only show on hover
+                controlNav:false, //1,2,3...
+                controlNavThumbs:false, //Use thumbnails for Control Nav
+                pauseOnHover:true, //Stop animation while hovering
+                manualAdvance:false, //Force manual transitions
+                captionOpacity:0.8, //Universal caption opacity
+                beforeChange: function(){},
+                afterChange: function(){},
+                slideshowEnd: function(){} //Triggers after all slides have been shown
+        });
+});
+//]]>
+</script>

@@ -1,0 +1,131 @@
+<div id="site">
+    <div id="header">
+        <a href="#" class="logo"><img src="http://espacioforos.miarroba.st/2063167/creo/logo.jpg" alt="setalpm" width="202" height="55" /></a>
+        <div class="inner_copy">
+            <a href="http://nitroplantillas.jimdo.com">Plantillas gratis para jimdo</a><a href="http://nitroplantillas.jimdo.com">Nitro desing</a>
+        </div>
+
+        <div id="menu">
+            <ul>
+                <li>
+                    <a href="#" class="but1 active"><img src="http://espacioforos.miarroba.st/2063167/creo/spacer.gif" alt="" width="106" height="42" /></a>
+                </li>
+
+                <li>
+                    <a href="#" class="but2"><img src="http://espacioforos.miarroba.st/2063167/creo/spacer.gif" alt="" width="118" height="42" /></a>
+                </li>
+
+                <li>
+                    <a href="#" class="but3"><img src="http://espacioforos.miarroba.st/2063167/creo/spacer.gif" alt="" width="106" height="42" /></a>
+                </li>
+
+                <li>
+                    <a href="#" class="but4"><img src="http://espacioforos.miarroba.st/2063167/creo/spacer.gif" alt="" width="99" height="42" /></a>
+                </li>
+
+                <li>
+                    <a href="#" class="but5"><img src="http://espacioforos.miarroba.st/2063167/creo/spacer.gif" alt="" width="154" height="42" /></a>
+                </li>
+
+                <li>
+                    <a href="#" class="but6"><img src="http://espacioforos.miarroba.st/2063167/creo/spacer.gif" alt="" width="129" height="42" /></a>
+                </li>
+            </ul>
+
+            <form action="#">
+                <input type="text" value="Search" />
+            </form>
+        </div>
+
+        <ul id="meta">
+            <li>
+                <a href="#" class="meta1"><img src="http://espacioforos.miarroba.st/2063167/creo/spacer.gif" alt="" width="37" height="39" /></a>
+            </li>
+
+            <li>
+                <a href="#" class="meta2"><img src="http://espacioforos.miarroba.st/2063167/creo/spacer.gif" alt="" width="37" height="39" /></a>
+            </li>
+
+            <li>
+                <a href="#" class="meta3"><img src="http://espacioforos.miarroba.st/2063167/creo/spacer.gif" alt="" width="37" height="39" /></a>
+            </li>
+        </ul>
+    </div>
+
+    <div id="content">
+        <div id="main">
+            <div class="content">
+                <var>content</var>
+            </div>
+        </div>
+
+        <div id="sidebar">
+            <div class="block">
+                <div class="news">
+                    <div>
+                        <p>
+                            Illum secundum exerci erat plaga illum, enim, venio. Tamen causa ut diam torqueo sagaciter inhibeo si quae exerci lobortis. Appellatio vel hos autem, ludus luptatum mauris
+                            ratis jugis interdico. Gilvus consequat abico demoveo lenis validus typicus ut commodo. Consequat, eu voco cui eros, euismod quis illum, commodo.
+                        </p>
+                        <a href="#" class="more"><img src="http://espacioforos.miarroba.st/2063167/creo/more.gif" alt="" width="102" height="21" /></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sponsors">
+                <img src="http://espacioforos.miarroba.st/2063167/creo/title1.gif" alt="" width="274" height="37" /> <a href="http:nitroplantillas.jimdo.com" target="_blank"><img src=
+                "http://espacioforos.miarroba.st/2063167/creo/banner.jpg" alt="plantillas gratis para jimdo" width="250" height="250" /></a>
+            </div>
+
+            <div>
+                <img src="http://espacioforos.miarroba.st/2063167/creo/title2.gif" alt="" width="274" height="37" />
+                <ul class="menu">
+                    <li>
+                        <var>navigation[1|2|3]</var>
+                    </li>
+                </ul>
+            </div>
+            <var>sidebar</var>
+        </div>
+    </div>
+</div>
+
+<div id="footer">
+    <div class="inner_copy">
+        <a href="http://www.greatdirectories.org/">directories</a><a href="http://www.bestfreetemplates.org/">free website templates</a>
+    </div>
+
+    <div>
+        <span>Copyright ©. All rights reserved. Design by <a href="http://nitroplantillas.jimdo.com" class="bft" title="Plantillas gratis para jimdo" target="_blank">nitro</a></span>
+        <ul id="navigation">
+            <li>
+                <a href="#">Home</a>|
+            </li>
+
+            <li>
+                <a href="#">About us</a>|
+            </li>
+
+            <li>
+                <a href="#">Gallery</a>|
+            </li>
+
+            <li>
+                <a href="#">News</a>|
+            </li>
+
+            <li>
+                <a href="#">Popular posts</a>|
+            </li>
+
+            <li>
+                <a href="#">Contact us</a>|
+            </li>
+
+            <li>
+                <a href="#" class="rss">RSS</a>
+            </li>
+        </ul>
+    </div>
+    <var>footer</var>
+</div>

@@ -1,0 +1,145 @@
+<div id="templatemo_wrapper_outer">
+    <div id="templatemo_wrapper_inner">
+        <div id="templatemo_banner">
+        </div>
+        <!-- end of banner -->
+
+        <div id="templatemo_menu">
+            <ul>
+                <li>
+                    <a href="#" class="current">Home</a>
+                </li>
+
+                <li>
+                    <a href="#">Games</a>
+                </li>
+
+                <li>
+                    <a href="#">Popular</a>
+                </li>
+
+                <li>
+                    <a href="#">Download</a>
+                </li>
+
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- end of menu -->
+
+        <div id="templatemo_content_wrapper">
+            <div class="templatemo_side_bar margin_right_10">
+                <div class="header_01">
+                    Games by Platform
+                </div>
+
+                <ul>
+                    <li>
+                        <var>navigation[1|2|3]</var>
+                    </li>
+                </ul>
+
+                <div class="margin_bottom_20 horizontal_divider">
+                </div>
+
+                <div class="margin_bottom_20">
+                </div>
+
+                <div class="header_01">
+                    buscador
+                </div>
+
+                <form action="" method="post">
+                    <input type="text" id="search_field" /> <input type="submit" value="" id="search_button" />
+                </form>
+
+                <div class="margin_bottom_20">
+                </div>
+            </div>
+            <!-- end of left side bar -->
+
+            <div class="templatemo_content margin_right_10">
+                <div class="content_section">
+                    <var>content</var>
+                    <div class="cleaner">
+                    </div>
+                </div>
+
+                <div class="content_section">
+                    <div class="cleaner">
+                    </div>
+                </div>
+
+                <div class="margin_bottom_40">
+                </div>
+            </div>
+            <!-- end of content -->
+
+            <div class="templatemo_side_bar">
+                <div class="header_01">
+                    noticias
+                </div>
+
+                <div class="latest_news border_bottom">
+                    <div class="header_03">
+                        <a href="#">Aenean a bibendum augue</a>
+                    </div>
+
+                    <p>
+                        Fusce egestas feugiat turpis, ac ultrices turpis vestibulum at.
+                    </p>
+                </div>
+
+                <div class="margin_bottom_10">
+                </div>
+
+                <div class="latest_news">
+                    <div class="header_03">
+                        <a href="#">Sed nec enim magna</a>
+                    </div>
+
+                    <p>
+                        Proin lectus orci, iaculis at facilisis sed, sodales a neque.
+                    </p>
+                </div>
+
+                <div class="margin_bottom_20 horizontal_divider">
+                </div>
+
+                <div class="margin_bottom_20">
+                </div>
+
+                <div class="header_01">
+                    sidevar
+                </div>
+
+                <div class="latest_news">
+                    <var>sidebar</var>
+                </div>
+
+                <div class="margin_bottom_10">
+                </div>
+            </div>
+            <!-- end of right side bar -->
+
+            <div class="cleaner">
+            </div>
+        </div>
+        <!-- end of content wrapper -->
+    </div>
+</div>
+
+<div id="templatemo_footer">
+    Copyright © 2024 <a href="http://nitroplantilla.jimdo.com">nitroplantillas</a> | Designed by <a href="http://nitroplantilla.jimdo.com" target="_parent">Free CSS Templates</a> <var>footer</var>
+</div>
+<!-- end of footer -->
+
+<div class="margin_bottom_10">
+</div>
+
+<div class="content_section">
+    <div class="margin_bottom_10">
+    </div>
+</div>

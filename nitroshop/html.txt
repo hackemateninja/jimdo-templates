@@ -1,0 +1,233 @@
+<div id="templatemo_wrapper">
+    <div id="templatemo_header">
+        <div id="site_title">
+            <h1>
+                <a href="http://nitroplantillas.jimdo.com">Plantillas gratis para jimdo</a>
+            </h1>
+        </div>
+
+        <div id="header_right">
+            <div id="rotator">
+                <a href="http://es.jimdo.com/precios/jimdopro/#ref=a1000119"><img alt="Crea tu web" src="http://s.jimdo.com/s/img/aff/ba/3/JimdoPro/es-usd.gif" /></a>
+            </div>
+        </div>
+
+        <div class="cleaner">
+        </div>
+    </div>
+    <!-- END of templatemo_header -->
+
+    <div id="templatemo_menu">
+        <div id="top_nav" class="ddsmoothmenu">
+            <ul>
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com" class="selected">Inicio</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com/tienda-online">Productos</a>
+                    <ul>
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/productos/plantillas">Plantillas gratis</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/clientes/plantillas-premium">Plantillas premium</a>
+                        </li>
+
+                        <li style="list-style: none">
+                            <a href="http://nitroplantillas.jimdo.com/nitrozine">revista para jimderos</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/con-menu-desplegable/comprar-web">Web sites</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com/galeria-de-recursos">Recursos</a>
+                    <ul>
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/trucos">Trucos para tu web</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/tutoriales">Tutoriales</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/desing">Diseñador</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/recursos/programas">Programas</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/ciencia-ficcion/juegos">Juegos</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com/nitrozine">Nitrozine</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com/blog">Blog</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com/libro-de-visitas">Contacto</a>
+                </li>
+            </ul>
+            <br style="clear: left" />
+        </div>
+        <!-- end of ddsmoothmenu -->
+
+        <div id="menu_second_bar">
+            <div id="top_shopping_cart">
+                <p>
+                    página web creada por Herman orlando Morales López
+                </p>
+            </div>
+
+            <div id="templatemo_search">
+                <form action="#" method="get">
+                    <input type="text" value="Search" name="keyword" id="keyword" title="keyword" onfocus="clearText(this)" onblur="clearText(this)" class="txt_field" /> <input type="submit" name=
+                    "Search" value=" Search " alt="Search" id="searchbutton" title="Search" class="sub_btn" />
+                </form>
+            </div>
+
+            <div class="cleaner">
+            </div>
+        </div>
+    </div>
+    <!-- END of templatemo_menu -->
+
+    <div id="templatemo_middle" class="carousel">
+        <div class="panel">
+            <div class="details_wrapper">
+                <div class="details">
+                    <div class="detail">
+                        <h2>
+                            <a href="http://nitroplantillas.jimdo.com">Nitroplantillas</a>
+                        </h2>
+
+                        <p>
+                            Es una empresa de diseño web profesional con algunos consejos y ayuda a todos los jimderos del mundo, y otras plataformas nuestro fin es crear una web profesional y
+                            original a cada uno de nuestros clientes.
+                        </p>
+                        <a href="http://nitroplantillas.jimdo.com" title="Leer" class="more">Leer</a>
+                    </div>
+                    <!-- /detail -->
+
+                    <div class="detail">
+                        <h2>
+                            <a href="http://nitroplantillas.jimdo.com/trucos">Programador</a>
+                        </h2>
+
+                        <p>
+                            Trucos tutoriales y ayuda a todas las personas que poseean una website nuestro lema es ser siempre original.
+                        </p>
+                        <a href="http://nitroplantillas.jimdo.com/trucos" title="Leer" class="more">Leer</a>
+                    </div>
+                    <!-- /detail -->
+
+                    <div class="detail">
+                        <h2>
+                            <a href="http://nitroplantillas.jimdo.com/productos/plantillas">Diseño de plantillas</a>
+                        </h2>
+
+                        <p>
+                            Amplia colección de plantillas gratis para jimdo nuestra principal meta es hacer plantillas con diseños modernos y profesionales.
+                        </p>
+                        <a href="http://nitroplantillas.jimdo.com/productos/plantillas" title="Leer" class="more">Leer</a>
+                    </div>
+                    <!-- /detail -->
+                </div>
+                <!-- /details -->
+            </div>
+            <!-- /details_wrapper -->
+
+            <div class="paging">
+                <div id="numbers">
+                </div>
+                <a href="javascript:void(0);" class="previous" title="Previous">Previous</a> <a href="javascript:void(0);" class="next" title="Next">Next</a>
+            </div>
+            <!-- /paging -->
+            <a href="javascript:void(0);" class="play" title="Turn on autoplay">Play</a> <a href="javascript:void(0);" class="pause" title="Turn off autoplay">Pause</a>
+        </div>
+        <!-- /panel -->
+
+        <div class="backgrounds">
+            <div class="item item_1">
+                <img src="http://espacioforos.miarroba.st/2063167/comentario/nitro.jpg" alt="Slider 01" />
+            </div>
+            <!-- /item -->
+
+            <div class="item item_2">
+                <img src="http://espacioforos.miarroba.st/2063167/comentario/html.jpg" alt="Slider 02" />
+            </div>
+            <!-- /item -->
+
+            <div class="item item_3">
+                <img src="http://espacioforos.miarroba.st/2063167/comentario/barcelona-6.jpg" alt="Slider 03" />
+            </div>
+            <!-- /item -->
+        </div>
+        <!-- /backgrounds -->
+    </div>
+    <!-- END of templatemo_middle -->
+
+    <div id="templatemo_main">
+        <div id="sidebar" class="float_l">
+            <div class="sidebar_box">
+                <h3>
+                    Categorías
+                </h3>
+
+                <div class="content">
+                    <ul class="sidebar_list">
+                        <li class="first">
+                            <var>navigation[1|2|3]</var>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="sidebar_box">
+                <h3>
+                    Nosotros
+                </h3>
+
+                <div class="content">
+                    <div class="bs_box">
+                        <var>sidebar</var>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="content" class="float_r">
+            <var>content</var>
+        </div>
+
+        <div class="cleaner">
+        </div>
+    </div>
+    <!-- END of templatemo_main -->
+
+    <div id="templatemo_footer">
+        <p>
+            <a href="http://nitroplantillas.jimdo.com">Inicio</a> | <a href="http://nitroplantillas.jimdo.com/tienda-online">Productos</a> | <a href=
+            "http://nitroplantillas.jimdo.com/productos/plantillas">Plantillas</a> | <a href="http://nitroplantillas.jimdo.com/nitrozine">Nitrozine</a> | <a href=
+            "http://nitroplantillas.jimdo.com/blog">Blog</a> | <a href="http://nitroplantillas.jimdo.com/libro-de-visitas">Contacto</a>&gt;
+        </p>
+        <a href="http://nitroplantillas.jimdo.com">Nitroplantillas</a> | <a href="http://nitroplantillas.jimdo.com/con-menu-desplegable/comprar-web" target="_parent">Diseño web profesional</a> por
+        <a href="http://nitroplantillas.jimdo.com" target="_parent">Herman Morales "Diseñador web"</a> <var>footer</var>
+    </div>
+    <!-- END of templatemo_footer -->
+    <!-- END of templatemo_wrapper -->
+</div>

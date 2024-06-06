@@ -1,0 +1,185 @@
+<div id="templatemo_top_wrapper">
+    <div id="templatemo_top">
+        <div id="site_title">
+            <h1>
+                <a href="http://nitroplantillas.jimdo.com">Free CSS Templates</a>
+            </h1>
+        </div>
+
+        <div id="templatemo_menu" class="ddsmoothmenu">
+            <ul>
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com" class="selected">Home</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">About</a>
+                    <ul>
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com">Sub menu 1</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com">Sub menu 2</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com">Sub menu 3</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Portfolio</a>
+                    <ul>
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com">Sub menu 1</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com">Sub menu 2</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com">Sub menu 3</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com">Sub menu 4</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com">Sub menu 5</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Blog</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Contact</a>
+                </li>
+            </ul>
+            <br style="clear: left" />
+        </div>
+        <!-- end of menu -->
+    </div>
+    <!-- end of top -->
+</div>
+<!-- end of top wrapper -->
+
+<div id="templatemo_main_top">
+</div>
+
+<div id="templatemo_main_wrapper">
+    <div id="templatemo_slider_wrapper">
+        <ul class="slider horizontal">
+            <li id="slide_1">
+                <img src="http://nitrojimdo.blogcindario.com/ficheros/acordion/01.jpg" alt="Slider 01" />
+            </li>
+
+            <li id="slide_2">
+                <img src="http://nitrojimdo.blogcindario.com/ficheros/acordion/02.jpg" alt="Slider 02" />
+            </li>
+
+            <li id="slide_3">
+                <img src="http://nitrojimdo.blogcindario.com/ficheros/acordion/03.jpg" alt="Slider 03" />
+            </li>
+
+            <li id="slide_4">
+                <img src="http://nitrojimdo.blogcindario.com/ficheros/acordion/04.jpg" alt="Slider 04" />
+            </li>
+
+            <li id="slide_5">
+                <img src="http://nitrojimdo.blogcindario.com/ficheros/acordion/05.jpg" alt="Slider 05" />
+            </li>
+        </ul>
+    </div>
+
+    <div id="templatemo_main">
+        <div class="col col_3 hp_post">
+            <img src="http://nitrojimdo.blogcindario.com/ficheros/acordion/screen_addicted-to-coffee.png" alt="Coffee" />
+            <h4>
+                Web Design
+            </h4>
+
+            <p>
+                Vivamus dapibus quam nec ipsum suscipit pulvinar.
+            </p>
+            <a href="#">More</a>
+        </div>
+
+        <div class="col col_3 hp_post">
+            <img src="http://nitrojimdo.blogcindario.com/ficheros/acordion/presentation.png" alt="Presentation" />
+            <h4>
+                Web Hosting
+            </h4>
+
+            <p>
+                Mauris condimentum lacinia tellus, ac vestibulum at.
+            </p>
+            <a href="#">More</a>
+        </div>
+
+        <div class="col col_3 hp_post no_margin_righ">
+            <img src="http://nitrojimdo.blogcindario.com/ficheros/acordion/wallet_louis_vuitton_bills.png" alt="Wallet" />
+            <h4>
+                Web Programming
+            </h4>
+
+            <p>
+                Sed a turpis sed quam elementum quis mauris.
+            </p>
+            <a href="#">More</a>
+        </div>
+
+        <div class="cleaner h40 hr">
+        </div>
+
+        <div class="col col_32">
+            <var>content</var>
+        </div>
+
+        <div class="col col_3 no_margin_righ">
+            <h3>
+                Recent Posts
+            </h3>
+
+            <div id="Menunitro">
+                <var>navigation[1|2|3]</var>
+            </div>
+
+            <div class="cleaner">
+            </div>
+            <br />
+
+            <div class="rp_pp">
+                <var>sidebar</var>
+            </div>
+        </div>
+
+        <div class="cleaner">
+        </div>
+    </div>
+    <!-- end of main -->
+</div>
+<!-- end of main wrapper -->
+
+<div id="templatemo_footer">
+    <div class="col col_3 hp_post">
+        <a href="#"><img src="http://nitrojimdo.blogcindario.com/ficheros/acordion/facebook.png" title="Facebook" alt="Facebook" /></a> <a href="#"><img src=
+        "http://nitrojimdo.blogcindario.com/ficheros/acordion/flickr.png" title="Flickr" alt="Flickr" /></a> <a href="#"><img src="http://nitrojimdo.blogcindario.com/ficheros/acordion/twitter.png"
+        title="Twitter" alt="Twitter" /></a> <a href="#"><img src="http://nitrojimdo.blogcindario.com/ficheros/acordion/youtube.png" title="Youtube" alt="Youtube" /></a> <a href="#"><img src=
+        "http://nitrojimdo.blogcindario.com/ficheros/acordion/feed.png" title="RSS" alt="RSS" /></a>
+    </div>
+
+    <div class="col col_32 copyright no_margin_righ">
+        Copyright © 2012 <a href="http://nitroplantillas.jimdo.com">nitroplantillas</a> | Designed by <a href="http://nitroplantillas.jimdo.com" target="_parent">herman morales</a>
+    </div>
+    <var>footer</var>
+    <div class="cleaner">
+    </div>
+</div>
+<!-- end of footer -->

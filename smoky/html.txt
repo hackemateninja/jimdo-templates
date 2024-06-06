@@ -1,0 +1,82 @@
+<div id="templatemo_wrapper">
+    <div id="templatemo_header">
+        <div id="site_title">
+            <h1>
+                <a href="http://www.templatemo.com">Free CSS Templates</a>
+            </h1>
+        </div>
+
+        <div id="twitter">
+            <a class="twitter rss_twitter" href="http://www.facebook.com/templatemo">Follow Us</a>
+        </div>
+
+        <div class="cleaner">
+        </div>
+    </div>
+
+    <div id="templatemo_menu">
+        <ul>
+            <li>
+                <var>navigation[1|2|3]</var>
+            </li>
+        </ul>
+
+        <div class="cleaner">
+        </div>
+    </div>
+    <!-- end of templatemo_menu -->
+
+    <div id="templatemo_middle">
+        <div id="intro">
+            <h2>
+                Lorem ipsum dolor sit amet
+            </h2>
+
+            <p>
+                Donec dignissim, mi eu imperdiet ultrices, quam nisi dignissim tellus, viverra sodales erat orci nec magna. Proin dolor mi, ultrices sit amet iaculis eu.
+            </p>
+            <a class="learn_more" href="#">Learn more</a>
+        </div>
+
+        <div id="slider">
+            <a href="#"><img src="http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_7/01.jpg" alt="" title="Lorem ipsum dolor sit amet." /></a> <a href="#"><img src=
+            "http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_7/02.jpg" alt="" title="Nullam ante leo, consectetur eget." /></a> <a href="#"><img src=
+            "http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_7/03.jpg" alt="" title="Suspendisse sit amet enim elit." /></a> <a href="#"><img src=
+            "http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_7/04.jpg" alt="" title="Nulla faucibus luctus quam eget placerat." /></a> <a href="#"><img src=
+            "http://espacioforos.miarroba.st/2042636/Nueva_Carpeta_7/05.jpg" alt="" title="Phasellus aliquet viverra posuere. " /></a>
+        </div>
+    </div>
+
+    <div id="tm_top">
+    </div>
+
+    <div id="templatemo_main">
+        <div class="col_w900 col_w900_last">
+            <div class="col_w580 float_l">
+                <div class="post_box">
+                    <span class="cat"><var>content</var></span>
+                </div>
+            </div>
+
+            <div class="col_w280 float_r">
+                <div class="sb_lp_box">
+                    <var>sidebar</var><a href="#"></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="cleaner">
+        </div>
+    </div>
+    <!-- end of main -->
+
+    <div id="tm_bottom">
+    </div>
+
+    <div id="templatemo_footer">
+        Copyright © 2048 <a href="#">Your Company Name</a> | <a href="http://www.iwebsitetemplate.com" target="_parent">Website Templates</a> by <a href="http://www.templatemo.com" target=
+        "_parent">Free CSS Templates</a> <var>footer</var>
+    </div>
+    <!-- end of footer -->
+</div>
+<!-- end of wrapper -->

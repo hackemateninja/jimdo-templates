@@ -1,0 +1,21 @@
+<style type="text/css">
+/*<![CDATA[*/
+/*
+Name Code: nitro! Codes_Tutorial
+Description: Menu Personalizado Reemplazante Jimdo Menu Standar
+*/
+#Menunitro { width: 250px; border-style: solid solid none solid; border-color: #090909; border-size: 1px; border-width: 1px; }
+#Menunitro ul{ list-style:none; margin:0px; padding:0px; }#Menunitro li a { height: 32px;  height: 24px; text-decoration: none; font-weight:normal; } #Menunitro li a:link, #Menunitro li a:visited { color: #090909; display: block; background: url(http://nitrojimdo.blogcindario.com/ficheros/greenblog/menu.jpg); background-repeat:no-repeat; padding: 8px 0 0 10px; } #Menunitro li a:hover { color: #0e69be; background: url(http://nitrojimdo.blogcindario.com/ficheros/greenblog/menu.jpg) 0 -32px; background-repeat:no-repeat;padding: 8px 0 0 10px; } #Menunitro li a:active { color: #0e69be;background: url(http://nitrojimdo.blogcindario.com/ficheros/greenblog/menu.jpg) 0 -64px; background-repeat:no-repeat; padding: 8px 0 0 10px; }
+/*]]>*/
+</style>
+
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+function clearText(field)
+{
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+//]]>
+</script>

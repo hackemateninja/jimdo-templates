@@ -1,0 +1,133 @@
+<div id="page">
+    <div id="header">
+        <h1>
+            <a href="#">Red hell</a>
+        </h1>
+
+        <p id="subtitle">
+            Template designed by nitroplantillas.jimdo.com
+        </p>
+    </div>
+
+    <div id="menu">
+        <ul>
+            <li>
+                <a href="#">Home</a>
+            </li>
+
+            <li>
+                <a href="#">About</a>
+            </li>
+
+            <li>
+                <a href="#">Services</a>
+            </li>
+
+            <li>
+                <a href="#">Gallery</a>
+            </li>
+
+            <li>
+                <a href="#">Help</a>
+            </li>
+
+            <li>
+                <a href="#">Contact</a>
+            </li>
+        </ul>
+    </div>
+
+    <div id="main">
+        <div id="sidebar">
+            <div id="login">
+                <h2>
+                    Account Login
+                </h2>
+
+                <div class="box2">
+                    <form method="post" action="#">
+                        <p class="txtleft">
+                            <label for="user">User Name:</label>
+                        </p>
+                        <input type="text" name="user" id="user" class="text" /><br />
+
+                        <p class="txtleft">
+                            <label for="password">Password:</label>
+                        </p>
+                        <input type="password" name="password" id="password" class="password" /><br />
+
+                        <p class="rem">
+                            <input type="checkbox" checked="checked" name="remember" id="remember" /> <label for="remember">Remember me</label>
+                        </p>
+                        <input type="submit" name="submit" id="submit" class="submit" value="Submit" />
+                        <p>
+                            <a href="#">Forgot your password?</a>
+                        </p>
+
+                        <p>
+                            <a href="#">Create an account</a>
+                        </p>
+                    </form>
+                </div>
+            </div>
+            <!-- login -->
+
+            <div class="box">
+                <h2>
+                    Categorías
+                </h2>
+
+                <div class="box2">
+                    <ul>
+                        <li>
+                            <var>navigation[1|2|3]</var>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- box -->
+
+            <div class="box">
+                <h2>
+                    Nuevo
+                </h2>
+
+                <div class="box2">
+                    <var>sidebar</var>
+                </div>
+            </div>
+            <!-- box -->
+        </div>
+        <!-- sidebar -->
+
+        <div id="content">
+            <div id="contheader">
+                <h2>
+                    Vienvenido al infierno
+                </h2>
+            </div>
+
+            <div id="content2">
+                <div class="post">
+                    <var>content</var>
+                </div>
+                <!-- post -->
+            </div>
+            <!-- content2 -->
+        </div>
+        <!-- content -->
+
+        <div class="clearing">
+            &#160;
+        </div>
+
+        <div id="footer">
+            <p>
+                Copyright © 2011, designed by <a href="http://nitroplantillas.jimdo.com.com/">Plantillas gratis para jimdo</a>
+            </p>
+        </div>
+        <var>footer</var>
+    </div>
+    <!-- main -->
+</div>
+<!-- page -->

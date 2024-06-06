@@ -1,0 +1,94 @@
+<div id="templatemo_wrapper">
+    <div id="templatemo_container">
+        <div id="templatemo_header_panel">
+            <div id="logo">
+            </div>
+        </div>
+
+        <div id="templatemo_top_panel">
+            <div id="templatemo_latest_project">
+                <div class="image_frame_01">
+                    <img src="http://nitrojimdo.blogcindario.com/ficheros/desingteam/templatemo_image_01.jpg" alt="image" />
+                </div>
+
+                <div id="latest_project_content">
+                    <div class="header_01">
+                        Free CSS Template
+                    </div>
+
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam feugiat mi lacus, sed accumsan neque. Donec condimentum molestie laoreet.
+                    </p>
+
+                    <div class="rc_btn_01">
+                        <a href="http://nitroplantillas.jimdo.com">Read more</a>
+                    </div>
+                </div>
+
+                <div class="cleaner">
+                </div>
+            </div>
+
+            <div id="templatemo_menu">
+                <ul>
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com" class="current">Home</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">Services</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">Portfolio</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com" target="_parent">Templates</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">About Us</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="templatemo_content">
+            <div id="templatemo_content_left">
+                <var>content</var>
+            </div>
+            <!-- end of content left -->
+
+            <div id="templatemo_content_right">
+                <div class="content_right_section">
+                    <div class="header_02">
+                        New Projects
+                    </div>
+
+                    <div class="news_section">
+                        <var>navigation[1|2|3]</var>
+                    </div>
+
+                    <div class="margin_bottom_20">
+                    </div>
+                    <var>sidebar</var>
+                </div>
+            </div>
+            <!-- end of content right -->
+
+            <div class="cleaner">
+            </div>
+        </div>
+
+        <div id="templatemo_footer">
+            Copyright © 2024 <a href="http://nitroplantillas.jimdo.com" target="_parent"><strong>nitroplantillas</strong></a> | Designed by <a href="http://nitroplantillas.jimdo.com" target=
+            "_parent">herman morales</a> <var>footer</var>
+        </div>
+        <!-- end of footer -->
+    </div>
+</div>

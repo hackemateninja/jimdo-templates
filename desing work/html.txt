@@ -1,0 +1,144 @@
+<div id="templatemo_body_wrapper">
+    <div id="templatemo_wrapper">
+        <div id="templatemo_header">
+            <div id="site_title">
+                <h1>
+                    <a href="http://nitroplantillas.jimdo.com">Free CSS Templates</a>
+                </h1>
+            </div>
+
+            <div id="templatemo_menu">
+                <ul>
+                    <li>
+                        <var>navigation[1|2|3]</var>
+                    </li>
+                </ul>
+            </div>
+            <!-- end of templatemo_menu -->
+        </div>
+        <!-- end of header -->
+
+        <div id="templatemo_middle">
+            <div id="mid_left">
+                <div id="mid_title">
+                    nitroplantillas
+                </div>
+
+                <p>
+                    Nitroplantillas es una web super original no intentes robar ni tomar contenido sin dejar los créditos.
+                </p>
+
+                <p>
+                    ünete a nitropolice para acabar con los ladrones que se roban nuestros contenidos.
+                </p>
+                <a href="http://nitroplantillas.jimdo.com/nitropolice/" class="viewall"></a>
+            </div>
+            <img src="http://nitrojimdo.blogcindario.com/ficheros/desingwork/templatemo_icon_01.png" alt="diseño web" />
+        </div>
+        <!-- end of middle -->
+
+        <div id="templatemo_main">
+            <div class="cbox_fw">
+                <div class="cbox_3b fp_box">
+                    <h4>
+                        <a href="#">New Interaction</a>
+                    </h4>
+
+                    <p>
+                        Adipisicing elit, sed do eiusm ode incididunt ut labore et dlore mag nostrud exerci.
+                    </p>
+                </div>
+
+                <div class="cbox_3b fp_box">
+                    <h4>
+                        <a href="#">Social Media</a>
+                    </h4>
+
+                    <p>
+                        Mostrud exerciattion ullacom lab rure door mangae alsste formed Duis autei rure dolor in.
+                    </p>
+                </div>
+
+                <div class="cbox_3b cbox_rm fp_box">
+                    <h4>
+                        <a href="#">Digital Lifestyle</a>
+                    </h4>
+
+                    <p>
+                        Emination delart ulllamco laboris fugaieat commondo conequat dui coluptate corp.
+                    </p>
+                </div>
+
+                <div class="cleaner">
+                </div>
+            </div>
+
+            <div class="cbox_fw">
+                <div class="cbox_large float_l">
+                    <var>content</var>
+                </div>
+
+                <div class="cbox_small float_r">
+                    <h2>
+                        Nuevos contenidos
+                    </h2>
+
+                    <div class="rp_box">
+                        <var>sidebar</var>
+                    </div>
+                </div>
+
+                <div class="cleaner">
+                </div>
+            </div>
+        </div>
+        <!-- end of main -->
+
+        <div id="latest_works">
+            <h2>
+                Old Design Collection
+            </h2>
+
+            <div id="SlideItMoo_outer">
+                <div id="SlideItMoo_inner">
+                    <div id="SlideItMoo_items">
+                        <div class="SlideItMoo_element">
+                            <a href="http://nitroplantillas.jimdo.com" target="_parent"><img src="http://nitrojimdo.blogcindario.com/ficheros/desingwork/01.jpg" alt="product 1" /></a>
+                        </div>
+
+                        <div class="SlideItMoo_element">
+                            <a href="http://nitroplantillas.jimdo.com" target="_parent"><img src="http://nitrojimdo.blogcindario.com/ficheros/desingwork/04.jpg" alt="product 1" /></a>
+                        </div>
+
+                        <div class="SlideItMoo_element">
+                            <a href="http://nitroplantillas.jimdo.com" target="_parent"><img src="http://nitrojimdo.blogcindario.com/ficheros/desingwork/03.jpg" alt="product 1" /></a>
+                        </div>
+
+                        <div class="SlideItMoo_element">
+                            <a href="http://nitroplantillas.jimdo.com" target="_parent"><img src="http://nitrojimdo.blogcindario.com/ficheros/desingwork/02.jpg" alt="product 1" /></a>
+                        </div>
+
+                        <div class="SlideItMoo_element">
+                            <a href="http://nitroplantillas.jimdo.com" target="_parent"><img src="http://nitrojimdo.blogcindario.com/ficheros/desingwork/05.jpg" alt="product 1" /></a>
+                        </div>
+
+                        <div class="SlideItMoo_element">
+                            <a href="http://nitroplantillas.jimdo.com" target="_parent"><img src="http://nitrojimdo.blogcindario.com/ficheros/desingwork/06.jpg" alt="product 1" /></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="http://nitroplantillas.jimdo.com" class="more float_r"><span>&gt;&gt;</span> View More</a>
+        </div>
+        <!-- end of templatemo_middle -->
+    </div>
+</div>
+
+<div id="templatemo_footer_wrapper">
+    <div id="templatemo_footer">
+        Copyright Â© 2012 <a href="http://nitroplantillas.jimdo.com">nitroplantillas</a> | Designed by <a href="http://nitroplantillas.jimdo.com" target="_parent">herman morales</a>
+        <div class="cleaner">
+            <var>footer</var>
+        </div>
+    </div>
+</div>

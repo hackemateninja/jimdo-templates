@@ -1,0 +1,181 @@
+<div id="templatemo_container">
+    <div id="templatemo_top_panel">
+        <!--  Free CSS Templates @ www.TemplateMo.com  -->
+
+        <div id="top_panel_ls">
+            <div id="templatemo_site_title">
+                Metallic Website
+            </div>
+        </div>
+
+        <div id="top_panel_rs">
+            <div id="search_section">
+                <form action="#" method="get">
+                    <input type="text" name="q" size="10" id="searchfield" title="searchfield" /> <input type="submit" name="Search" value="Search" alt="Search" id="searchbutton" title="Search" />
+                </form>
+
+                <div class="cleaner">
+                </div>
+            </div>
+
+            <div id="templatemo_menu">
+                <ul>
+                    <li>
+                        <a href="#" class="current">Home</a>
+                    </li>
+
+                    <li>
+                        <a href="#">Products</a>
+                    </li>
+
+                    <li>
+                        <a href="#">Services</a>
+                    </li>
+
+                    <li>
+                        <a href="#">Company</a>
+                    </li>
+
+                    <li>
+                        <a href="#">Contact</a>
+                    </li>
+                </ul>
+
+                <div class="cleaner">
+                </div>
+            </div>
+            <!-- end of menu -->
+
+            <div class="cleaner">
+            </div>
+        </div>
+    </div>
+    <!-- end of top _panel -->
+
+    <div id="templatemo_banner">
+        <div id="banner_header_01">
+            LOREM IPSUM DOLOR!
+        </div>
+
+        <div id="banner_header_02">
+            Fusce sit amet odio eget.
+        </div>
+
+        <div id="banner_text">
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo lacus ac orci dapibus tempor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia.
+            </p>
+
+            <div class="rc_btn_01">
+                <a href="#">Continue...</a>
+            </div>
+        </div>
+    </div>
+    <!-- end of banner -->
+
+    <div id="ct">
+    </div>
+
+    <div id="templatemo_content">
+        <div id="content_left">
+            <var>content</var>
+        </div>
+        <!-- end of content left -->
+
+        <div id="content_right">
+            <div class="content_right_section">
+                <div class="content_header_01">
+                    Blog Posts
+                </div>
+
+                <div class="news_section">
+                    <div class="news_date">
+                        OCT 24, 2024
+                    </div>
+
+                    <div class="news_title">
+                        Nam auctor aliquam leo
+                    </div>
+
+                    <p>
+                        Sed sit amet pretium metus. Nullam bibendum pharetra luctus. Aliquam erat volutpat. Praesent sit amet elementum est. <a href="#">Read more</a>
+                    </p>
+                </div>
+
+                <div class="margin_bottom_30">
+                </div>
+
+                <div class="news_section">
+                    <div class="news_date">
+                        OCT 19, 2024
+                    </div>
+
+                    <div class="news_title">
+                        Duis ac metus eu nulla pharetra
+                    </div>
+
+                    <p>
+                        Suspendisse dignissim est nec tortor posuere vitae dictum dolor sagittis. Vestibulum at libero velit. Maecenas faucibus ornare erat sed sodales. <a href="#">Read more</a>
+                    </p>
+                </div>
+
+                <div class="margin_bottom_20">
+                </div>
+                <var>navigation[1|2|3]</var>
+                <div class="cleaner">
+                </div>
+            </div>
+            <!-- end of news section -->
+
+            <div class="margin_bottom_20 border_bottom">
+            </div>
+
+            <div class="margin_bottom_20">
+            </div>
+
+            <div class="content_right_section">
+                <div class="content_header_01">
+                    Newsletter
+                </div>
+
+                <p>
+                    Please enter your email address to subscribe our newsletter.
+                </p>
+
+                <form action="#" method="get">
+                    <input type="text" id="subscribe_field" /> <input type="submit" value="Subscribe" id="subscribe_button" />
+                </form>
+
+                <div class="cleaner">
+                </div>
+            </div>
+
+            <div class="margin_bottom_20 border_bottom">
+            </div>
+
+            <div class="content_right_section">
+            </div>
+
+            <div class="cleaner_h30">
+                <var>sidebar</var>
+            </div>
+        </div>
+        <!-- end of content right -->
+
+        <div class="cleaner">
+            &#160;
+        </div>
+    </div>
+    <!-- end of content -->
+
+    <div id="cb">
+    </div>
+
+    <div id="templatemo_footer">
+        Copyright © 2024 <a href="http://nitroplantillas.jimdo.com">Your Company Name</a> | Designed by <a href="http://nitroplantillas.jimdo.com" target="_parent">Free CSS Templates</a>
+        <var>footer</var>
+    </div>
+    <!-- end of footer -->
+    <!--  Free Web Templates @ TemplateMo.com  -->
+</div>
+<!-- end of container -->

@@ -1,0 +1,160 @@
+<div id="templatemo_header_wrapper">
+    <div id="templatemo_header">
+        <div id="site_title">
+            <a href="http://nitroplantillas.jimdo.com"><span>YOUR TAGLINE GOES HERE</span></a>
+        </div>
+        <!-- end of site_title -->
+
+        <div id="social_box">
+            <a href="#"><img src="http://nitrojimdo.blogcindario.com/ficheros/bluemarble/stumbleupon.png" alt="stumbleupon" /></a> <a href="#"><img src=
+            "http://nitrojimdo.blogcindario.com/ficheros/bluemarble/digg.png" alt="digg" /></a> <a href="#"><img src="http://nitrojimdo.blogcindario.com/ficheros/bluemarble/facebook.png" alt=
+            "facebook" /></a> <a href="#"><img src="http://nitrojimdo.blogcindario.com/ficheros/bluemarble/twitter.png" alt="twitter" /></a> <a href="#"><img src=
+            "http://nitrojimdo.blogcindario.com/ficheros/bluemarble/feed.png" alt="feed" /></a>
+        </div>
+
+        <div id="templatemo_menu">
+            <ul>
+                <li>
+                    <a href="index.html" class="current">Home</a>
+                </li>
+
+                <li>
+                    <a href="about.html">About Us</a>
+                </li>
+
+                <li>
+                    <a href="gallery.html">Gallery</a>
+                </li>
+
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- end of templatemo_menu -->
+    </div>
+    <!-- end of header -->
+</div>
+<!-- end of header wrapper -->
+
+<div id="templatemo_main_wrapper">
+    <div id="templatemo_main">
+        <div id="templatemo_content">
+            <div id="homepage_slider">
+                <div id="slider">
+                    <a href="#"><img src="http://img.photobucket.com/albums/v628/zqueco/lecturas/jack-the-ripper.jpg" alt="Image 1" title=
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit." /></a> <a href="#"><img src="http://www.laopinion.com.co/noticias/images/2011/OCT/29/Terror.jpg" alt="Image 2" title=
+                    "Nullam ante leo, consectetur eget adipiscing et." /></a> <a href="#"><img src="http://xboxperu.com/wp-content/uploads/2011/09/rise-of-nightmares-imagen-1.jpg" alt="Image 3"
+                    title="Suspendisse sit amet enim elit. Curabitur tempor consequat." /></a> <a href="#"><img src=
+                    "http://www.klownsasesinos.com/wp-content/uploads/2010/11/elmolinodelasmujeresdepiedracov3-580x300.jpg" alt="Image 4" title="Nulla faucibus luctus quam eget placerat. " /></a>
+                    <a href="#"><img src="http://www.klownsasesinos.com/wp-content/uploads/2009/05/elmstreetcov5-580x300.jpg" alt="Image 5" title="Phasellus aliquet viverra posuere. " /></a>
+                </div>
+            </div>
+
+            <div class="post_box">
+                <var>content</var>
+            </div>
+        </div>
+
+        <div id="templatemo_sidebar">
+            <div class="sidebar_box">
+                <a href="http://nitroplantillas.jimdo.com" target="_parent"><img src="http://1.bp.blogspot.com/-stC8BwbrZDI/TjFU0bTyugI/AAAAAAAAD3g/iXo8ri8nZNo/s1600/noche+de+miedo-logo+250x250.jpg"
+                alt="banner" /></a>
+            </div>
+
+            <div class="sidebar_box">
+                <h4>
+                    Categories
+                </h4>
+
+                <ul class="tmo_list">
+                    <li>
+                        <var>navigation[1|2|3]</var>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="sidebar_box">
+                <var>sidebar</var>
+            </div>
+        </div>
+
+        <div class="cleaner">
+        </div>
+    </div>
+    <!-- end of main -->
+</div>
+<!-- end of main wrapper -->
+
+<div id="templatemo_footer_wrapper">
+    <div id="templatemo_footer">
+        <div class="footer_col_w300">
+            <h4>
+                Our Pages
+            </h4>
+
+            <ul class="tmo_list">
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+
+                <li>
+                    <a href="about.html">About Us</a>
+                </li>
+
+                <li>
+                    <a href="gallery.html">Gallery</a>
+                </li>
+
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="footer_col_w300">
+            <h4>
+                Our Resources
+            </h4>
+
+            <ul class="tmo_list">
+                <li>
+                    <a href="#">Donec elementum urna et justo</a>
+                </li>
+
+                <li>
+                    <a href="#">Fusce ullamcorper metus quis felis</a>
+                </li>
+
+                <li>
+                    <a href="#">Phasellus aliquet viverra posuere</a>
+                </li>
+
+                <li>
+                    <a href="#">Sed vel tellus a turpis mollis auctor</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="footer_col_w300 last">
+            <h4>
+                About Us
+            </h4>
+
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin augue urna, vehicula sed cursus a, faucibus vel sem. Nam aliquet arcu quis dolor porttitor quis luctus nisl dictum.
+            </p>
+
+            <p>
+                Copyright Â© 2048 <a href="http://nitroplantillas.jimdo.com">nitroplantillas</a><br />
+                Designed by <a href="http://nitroplantillas.jimdo.com" target="_parent">Plantillas y diseño web</a>
+            </p>
+        </div>
+
+        <div class="cleaner">
+        </div>
+        <var>footer</var>
+    </div>
+    <!-- end of templatemo_footer -->
+</div>
+<!-- end of templatemo_footer wrapper -->

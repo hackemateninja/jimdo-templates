@@ -1,0 +1,124 @@
+<div id="templatemo_container_wrapper">
+    <div id="templatemo_container">
+        <div id="templatemo_banner">
+            <div id="site_title">
+                <h1>
+                    <a href="http://nitroplantillas.jimdo.com" target="_parent">brazil nitro</a>
+                </h1>
+            </div>
+
+            <div id="templatemo_menu">
+                <ul>
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com" class="current">Home</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com" target="_parent">Templates</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">Services</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com" target="_blank">Gallery</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">About</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- end of menu -->
+        </div>
+        <!-- end of banner -->
+
+        <div id="templatemo_content">
+            <div id="side_column">
+                <div class="side_column_box">
+                    <h2>
+                        navi
+                    </h2>
+
+                    <div id="Menunitro">
+                        <var>navigation[1|2|3]</var>
+                    </div>
+                </div>
+
+                <div class="side_column_box">
+                    <h2>
+                        News
+                    </h2>
+
+                    <div class="side_column_box_content">
+                        <var>sidebar</var>
+                    </div>
+
+                    <div class="bottom">
+                    </div>
+                </div>
+            </div>
+            <!-- end of side column -->
+
+            <div id="main_column">
+                <div class="main_column_section">
+                    <div class="main_column_section_content">
+                        <var>content</var>
+                    </div>
+
+                    <div class="cleaner">
+                    </div>
+
+                    <div class="bottom">
+                    </div>
+                </div>
+            </div>
+            <!-- end of main column -->
+
+            <div class="cleaner">
+            </div>
+        </div>
+        <!-- end of content -->
+
+        <div id="templatemo_footer">
+            <div id="templatemo_footer_bar">
+                <ul class="footer_menu">
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">Home</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com" target="_parent">Templates</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">Services</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">Gallery</a>
+                    </li>
+
+                    <li>
+                        <a href="http://nitroplantillas.jimdo.com">About</a>
+                    </li>
+
+                    <li class="last_menu">
+                        <a href="http://nitroplantillas.jimdo.com">Contact</a>
+                    </li>
+                </ul>
+                Copyright © 2012 <a href="http://nitroplantillas.jimdo.com">nitroplantillas</a> | Designed by <a href="http://nitroplantillas.jimdo.com" target="_parent">herman morales</a> |
+                Validate <a href="http://validator.w3.org/check?uri=referer">XHTML</a> &amp; <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+            </div>
+            <var>footer</var>
+        </div>
+        <!-- end of footer -->
+    </div>
+    <!-- end of container -->
+</div>
+<!-- end of container wrapper -->

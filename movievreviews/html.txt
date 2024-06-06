@@ -1,0 +1,186 @@
+<!-- wrapper -->
+
+<div id="wrapper">
+    <div class="light-bg">
+        <!-- shell -->
+
+        <div class="shell">
+            <!-- header -->
+
+            <div class="header">
+                <!-- socials -->
+
+                <div class="socials">
+                    <a href="https://www.facebook.com/Nitroplantillas" class="facebook-ico">facebook-ico</a> <a href="https://twitter.com/nitroplantillas" class="twitter-ico">twitter-ico</a> <a href=
+                    "http://www.youtube.com/results?search_query=nitro+plantillas" class="you-tube-ico">you-tube-ico</a>
+                </div>
+                <!-- end of socials -->
+
+                <h1 id="logo">
+                    <a href="http://nitroplantillas.jimdo.com/">Moviereviews</a>
+                </h1>
+                <!-- navigation -->
+
+                <div id="navigation">
+                    <ul>
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/">SHOW ALL</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/">LATEST MOVIES <span>20</span></a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/">TOP RATED</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- end of navigation -->
+
+                <div class="cl">
+                    &#160;
+                </div>
+            </div>
+            <!-- end of header -->
+            <!-- main -->
+
+            <div class="main">
+                <!-- content -->
+
+                <div class="content">
+                    <!-- post -->
+
+                    <div class="post">
+                        <!-- post-inner -->
+
+                        <div class="post-inner">
+                            <var>content</var>
+                        </div>
+                        <!-- post-inner -->
+                    </div>
+                </div>
+                <!-- end of content -->
+                <!-- sidebar -->
+
+                <div class="sidebar">
+                    <div class="widget">
+                        <h3 class="widgettitle">
+                            Genres
+                        </h3>
+
+                        <ul>
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">Action</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">Comedy</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">Family</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">History</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">Mystery</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">Sci-Fi</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">War</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">Western</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">Adventure</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">Crime</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">Fantasy</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">Horror</a>
+                            </li>
+
+                            <li>
+                                <a href="http://nitroplantillas.jimdo.com/">Thriller</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="widget">
+                        <h3 class="widgettitle">
+                            Opening This Week
+                        </h3>
+
+                        <ul>
+                            <li>
+                                <var>navigation[1|2|3]</var>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="widget socials-widget">
+                        <h3 class="widgettitle">
+                            Get Connected
+                        </h3>
+
+                        <center>
+                            <var>sidebar</var>
+                        </center>
+                    </div>
+                </div>
+                <!-- end of sidebar -->
+
+                <div class="cl">
+                    &#160;
+                </div>
+            </div>
+            <!-- end of main -->
+
+            <div class="footer">
+                <div class="footer-nav">
+                    <ul>
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/">Show All</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/">Latest Movies</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/">Top Rated</a>
+                        </li>
+
+                        <li>
+                            <a href="http://nitroplantillas.jimdo.com/">Most Commented</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <p class="copy">
+                    Copyright © 2012 <span>|</span> Sitename. Design by <a href="http://nitroplantillas.jimdo.com/" target="_blank">nitroplantillas</a>
+                </p>
+            </div>
+        </div>
+        <var>footer</var> <!-- end of shell -->
+    </div>
+</div>
+<!-- end of wrapper -->

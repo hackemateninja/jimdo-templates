@@ -1,0 +1,106 @@
+<div id="templatemo_wrapper">
+    <div id="templatemo_header">
+        <div id="site_title">
+            <a href="http://nitroplantillas.jimdo.com" target="_parent"><img src="http://nitrojimdo.blogcindario.com/ficheros/frutal/templatemo_logo.png" alt="logo" /><span>YOUR TAGLINE GOES
+            HERE</span></a>
+        </div>
+        <!-- end of site_title -->
+
+        <div id="templatemo_menu">
+            <ul>
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com" target="_parent" class="current">Home</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com" target="_parent">Templates</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">Services</a>
+                </li>
+
+                <li>
+                    <a href="http://nitroplantillas.jimdo.com">About</a>
+                </li>
+
+                <li class="last">
+                    <a href="http://nitroplantillas.jimdo.com">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- end of templatemo_menu -->
+    </div>
+    <!-- end of header -->
+
+    <div id="templatemo_main">
+        <div id="templatemo_content">
+            <var>content</var>
+        </div>
+        <!-- end of content -->
+
+        <div id="templatemo_sidebar">
+            <div class="sidebar_box_woframe">
+                <a href="http://nitroplantillas.jimdo.com" class="icon_link"><img src="http://nitrojimdo.blogcindario.com/ficheros/frutal/email.png" alt="contact" /></a> <a href=
+                "http://nitroplantillas.jimdo.com" class="icon_link"><img src="http://nitrojimdo.blogcindario.com/ficheros/frutal/rss.png" alt="contact" /></a> <a href=
+                "http://nitroplantillas.jimdo.com&quot;#&quot;" class="icon_link"><img src="http://nitrojimdo.blogcindario.com/ficheros/frutal/twitter.png" alt="contact" /></a>
+                <div class="cleaner">
+                </div>
+            </div>
+
+            <div class="sidebar_box">
+                <div class="sidebar_box_top">
+                </div>
+
+                <div class="sidebar_box_content">
+                    <h3>
+                        Popular Posts
+                    </h3>
+
+                    <ul id="templatemo_list">
+                        <li>
+                            <var>navigation[1|2|3]</var>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="cleaner">
+                </div>
+
+                <div class="sidebar_box_bottom">
+                </div>
+            </div>
+
+            <div class="sidebar_box">
+                <div class="sidebar_box_top">
+                </div>
+
+                <div class="sidebar_box_content">
+                    <h3>
+                        Testimonials
+                    </h3>
+                    <var>sidebar</var>
+                    <div class="cleaner">
+                    </div>
+                </div>
+
+                <div class="sidebar_box_bottom">
+                </div>
+            </div>
+
+            <div class="cleaner">
+            </div>
+        </div>
+        <!-- end of sidebar -->
+
+        <div class="cleaner">
+        </div>
+    </div>
+    <!-- end of main -->
+
+    <div id="templatemo_footer">
+        Copyright © 2048 <a href="http://nitroplantillas.jimdo.com">Your Company Name</a> | Designed by <a href="http://nitroplantillas.jimdo.com" target="_parent">Free CSS Templates</a>
+    </div>
+    <var>footer</var> <!-- end of templatemo_footer -->
+</div>
+<!-- end of warpper -->
